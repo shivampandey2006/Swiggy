@@ -1,0 +1,35 @@
+import InstaMartData from "../asset/InstaMartData"
+
+export default function InstaMart({item}){
+   return (
+    <>
+     
+<a 
+target="_blanck"
+key={item.id}
+href={item.action.link}
+
+
+
+><div  className="h-50 w-40   ">
+     <img
+        
+          src={`https://media-assets.swiggy.com/swiggy/image/upload/${item.imageId}`}
+          alt={item.action.text}
+          className="h-full w-full object-contain"
+        
+        />
+        <h1 className=" text-center items-center text-[18px] font-semi-bold mt-5 font-stretch-75%  ">{item.description}</h1></div>
+</a>
+
+
+
+   
+
+    
+</>
+    
+    
+   )
+
+    }
