@@ -2,6 +2,8 @@ import FoodData from "../asset/FoodData";
 import InstaMartData from "../asset/InstaMartData";
 import InstaMart from "./InstaMart";
 import Food from "./food";
+import Dine from "./Dine";
+import DineData from "../asset/DineData";
 
 export default function Middle(){
     return (
@@ -31,7 +33,27 @@ export default function Middle(){
     }
    </div>
    </div>
+{/* above is InstaMart Card  */}
 
+
+
+
+
+
+<div className="pb-10" >
+
+<div className="  font-semibold font-sans text-wrap pl-[15%] pb-[7%] wrap-break-word text-[1.4rem]  " >Discover best restaurants on Dineout</div>
+<div className="flex flex-nowrap gap-7 w-[70%] container mx-auto overflow-x-scroll " >
+ {
+  DineData.map((value)=>(
+
+    <Dine key={value.info.id} value={value}></Dine>
+  )
+
+  )
+ }</div>
+
+</div>
 
 
 

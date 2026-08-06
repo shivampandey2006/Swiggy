@@ -11,7 +11,7 @@
         <link rel="icon" type="image/x-icon" sizes="32x32" href="https://media-assets.swiggy.com/portal/m/logo_32x32.ico">
         <link rel="icon" type="image/png" sizes="96x96" href="https://media-assets.swiggy.com/fl_lossy,f_auto,q_auto,w_96,h_96/portal/m/logo_192x192.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://media-assets.swiggy.com/fl_lossy,f_auto,q_auto,w_72,h_72/portal/m/logo_192x192.png">
-        <link rel="manifest" href="/manifest_new.json">
+        <link rel="manifest" href="/manifest.json">
         <link rel="prefetch" href="/static-web-food-cart?flow=cart&sourceApp=mweb">
         <link rel="preconnect" href="https://analytics.swiggy.com" crossorigin="anonymous">
         <link rel="preconnect" href="https://payments.swiggy.com" crossorigin="anonymous">
@@ -1528,19 +1528,19 @@
                 }
 
                 /*!sc*/
-                .krjwZA {
+                .joepQI {
                     --fill-color: rgba(255, 255, 255, 0.92);
                     --stroke-color: rgba(255, 255, 255, 0.92);
                     line-height: 0;
                 }
 
                 /*!sc*/
-                data-styled.g838[id="sc-kTLYjO"] {
-                    content: "krjwZA,"
+                data-styled.g810[id="sc-kefZET"] {
+                    content: "joepQI,"
                 }
 
                 /*!sc*/
-                .gjYaua {
+                .iFycmh {
                     background: transparent;
                     padding-left: 0px;
                     padding-right: 0px;
@@ -1550,12 +1550,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g880[id="sc-eChzZp"] {
-                    content: "gjYaua,"
+                data-styled.g880[id="sc-hRYQYr"] {
+                    content: "iFycmh,"
                 }
 
                 /*!sc*/
-                .bImVPf {
+                .cFOlRs {
                     overflow-x: scroll;
                     overflow-y: hidden;
                     -webkit-backface-visibility: hidden;
@@ -1568,12 +1568,12 @@
                 }
 
                 /*!sc*/
-                .bImVPf::-webkit-scrollbar {
+                .cFOlRs::-webkit-scrollbar {
                     display: none;
                 }
 
                 /*!sc*/
-                .bImVPf .row {
+                .cFOlRs .row {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -1582,17 +1582,17 @@
                 }
 
                 /*!sc*/
-                .bImVPf .row:first-child {
+                .cFOlRs .row:first-child {
                     padding-top: 0;
                 }
 
                 /*!sc*/
-                .bImVPf .row::-webkit-scrollbar {
+                .cFOlRs .row::-webkit-scrollbar {
                     display: none;
                 }
 
                 /*!sc*/
-                .fkZUdF {
+                .bebxHO {
                     overflow-x: scroll;
                     overflow-y: hidden;
                     -webkit-backface-visibility: hidden;
@@ -1605,12 +1605,12 @@
                 }
 
                 /*!sc*/
-                .fkZUdF::-webkit-scrollbar {
+                .bebxHO::-webkit-scrollbar {
                     display: none;
                 }
 
                 /*!sc*/
-                .fkZUdF .row {
+                .bebxHO .row {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -1619,22 +1619,22 @@
                 }
 
                 /*!sc*/
-                .fkZUdF .row:first-child {
+                .bebxHO .row:first-child {
                     padding-top: 0;
                 }
 
                 /*!sc*/
-                .fkZUdF .row::-webkit-scrollbar {
+                .bebxHO .row::-webkit-scrollbar {
                     display: none;
                 }
 
                 /*!sc*/
-                data-styled.g881[id="sc-JJXYI"] {
-                    content: "bImVPf,fkZUdF,"
+                data-styled.g881[id="sc-bHqdww"] {
+                    content: "cFOlRs,bebxHO,"
                 }
 
                 /*!sc*/
-                .jbFQIc {
+                .hPQeBR {
                     background: transparent;
                     margin-bottom: 12px;
                     margin-top: 0px;
@@ -1656,7 +1656,7 @@
                 }
 
                 /*!sc*/
-                .eDjZgM {
+                .YQmEl {
                     background: transparent;
                     margin-bottom: 16px;
                     margin-top: 0px;
@@ -1678,27 +1678,27 @@
                 }
 
                 /*!sc*/
-                data-styled.g882[id="sc-kEboFj"] {
-                    content: "jbFQIc,eDjZgM,"
+                data-styled.g882[id="sc-kfNFqV"] {
+                    content: "hPQeBR,YQmEl,"
                 }
 
                 /*!sc*/
-                .UHcZE {
+                .bpWPPt {
                     display: block;
                 }
 
                 /*!sc*/
-                .UHcZE .title {
+                .bpWPPt .title {
                     margin-bottom: 0;
                 }
 
                 /*!sc*/
-                data-styled.g883[id="sc-gLDMEC"] {
-                    content: "UHcZE,"
+                data-styled.g883[id="sc-fUxDce"] {
+                    content: "bpWPPt,"
                 }
 
                 /*!sc*/
-                .jKdDqt {
+                .ikcDXu {
                     width: initial;
                     padding-top: 0px;
                     padding-left: 0px;
@@ -1709,22 +1709,22 @@
                 }
 
                 /*!sc*/
-                .jKdDqt:first-child {
+                .ikcDXu:first-child {
                     padding-left: 0px;
                 }
 
                 /*!sc*/
-                .jKdDqt:last-child {
+                .ikcDXu:last-child {
                     padding-right: 0px;
                 }
 
                 /*!sc*/
-                data-styled.g884[id="sc-gvPyXg"] {
-                    content: "jKdDqt,"
+                data-styled.g884[id="sc-ddzvxH"] {
+                    content: "ikcDXu,"
                 }
 
                 /*!sc*/
-                .kRfSzU {
+                .edLLrq {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -1737,17 +1737,17 @@
                 }
 
                 /*!sc*/
-                .kRfSzU .imageStyle {
+                .edLLrq .imageStyle {
                     vertical-align: top;
                 }
 
                 /*!sc*/
-                data-styled.g886[id="sc-kIWYCO"] {
-                    content: "kRfSzU,"
+                data-styled.g886[id="sc-hIAASd"] {
+                    content: "edLLrq,"
                 }
 
                 /*!sc*/
-                .hjIacZ {
+                .cXzFXQ {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -1760,12 +1760,71 @@
                 }
 
                 /*!sc*/
-                data-styled.g887[id="sc-hRYQYr"] {
-                    content: "hjIacZ,"
+                data-styled.g887[id="sc-caVxnN"] {
+                    content: "cXzFXQ,"
                 }
 
                 /*!sc*/
-                .fEEmXf {
+                .dMqxQe {
+                    padding: 16px 16px 0 16px;
+                    width: 100%;
+                }
+
+                /*!sc*/
+                data-styled.g1044[id="sc-gvMUwQ"] {
+                    content: "dMqxQe,"
+                }
+
+                /*!sc*/
+                .hGYYtc {
+                    position: relative;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    width: 100%;
+                    margin: 0 auto;
+                    border-radius: 16px;
+                    height: 48px;
+                    background-color: #FFFFFF;
+                    border: 1.5px solid rgba(2, 6, 12, 0.15);
+                }
+
+                /*!sc*/
+                data-styled.g1045[id="sc-jOAYbT"] {
+                    content: "hGYYtc,"
+                }
+
+                /*!sc*/
+                .oQKKM {
+                    padding-left: 8px;
+                }
+
+                /*!sc*/
+                data-styled.g1046[id="sc-gUrzfS"] {
+                    content: "oQKKM,"
+                }
+
+                /*!sc*/
+                .dwjSAr {
+                    position: absolute;
+                    top: 13px;
+                    right: 16px;
+                    width: 20px;
+                    height: 20px;
+                }
+
+                /*!sc*/
+                data-styled.g1047[id="sc-ScoYh"] {
+                    content: "dwjSAr,"
+                }
+
+                /*!sc*/
+                .cLDveN {
                     position: relative;
                     width: 100%;
                     background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%);
@@ -1775,12 +1834,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1586[id="sc-fqOBFM"] {
-                    content: "fEEmXf,"
+                data-styled.g1052[id="sc-hAyXqv"] {
+                    content: "cLDveN,"
                 }
 
                 /*!sc*/
-                .fCWXin {
+                .THJfz {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -1799,12 +1858,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1587[id="sc-dIPDMD"] {
-                    content: "fCWXin,"
+                data-styled.g1053[id="sc-bzfibU"] {
+                    content: "THJfz,"
                 }
 
                 /*!sc*/
-                .coA-dVe {
+                .cdXoar {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1823,7 +1882,7 @@
                 }
 
                 /*!sc*/
-                .byvVmP {
+                .cirtWO {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1842,7 +1901,7 @@
                 }
 
                 /*!sc*/
-                .llVjg {
+                .kAgbMt {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1861,7 +1920,7 @@
                 }
 
                 /*!sc*/
-                .ivUrwk {
+                .eyobAl {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1880,7 +1939,7 @@
                 }
 
                 /*!sc*/
-                .dCKdjL {
+                .hwFgWy {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1899,7 +1958,7 @@
                 }
 
                 /*!sc*/
-                .bYZVUt {
+                .hNHcUY {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1918,7 +1977,7 @@
                 }
 
                 /*!sc*/
-                .dYEsZm {
+                .hZRbsH {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1937,7 +1996,7 @@
                 }
 
                 /*!sc*/
-                .itjggV {
+                .jBbFuE {
                     position: absolute;
                     top: 0;
                     left: 0;
@@ -1947,7 +2006,7 @@
                     background-size: cover;
                     -webkit-background-position: center;
                     background-position: center;
-                    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1666930149/vxkthxhvlkagzcryvlc5.jpg);
+                    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1710412328/63799d6ea1fb7946b6c4992318c7c89d.png);
                     opacity: 0;
                     border-radius: 16px 16px 0px 0px;
                     -webkit-transition: opacity 0.5s ease;
@@ -1956,12 +2015,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1588[id="sc-ieHzTW"] {
-                    content: "coA-dVe,byvVmP,llVjg,ivUrwk,dCKdjL,bYZVUt,dYEsZm,itjggV,"
+                data-styled.g1054[id="sc-jSgjnV"] {
+                    content: "cdXoar,cirtWO,kAgbMt,eyobAl,hwFgWy,hNHcUY,hZRbsH,jBbFuE,"
                 }
 
                 /*!sc*/
-                .duZmR {
+                .lgMswG {
                     position: absolute;
                     top: 10px;
                     left: 0;
@@ -1977,12 +2036,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1589[id="sc-hjMxNl"] {
-                    content: "duZmR,"
+                data-styled.g1055[id="sc-jzKtjC"] {
+                    content: "lgMswG,"
                 }
 
                 /*!sc*/
-                .fOuiql {
+                .krXecy {
                     margin: 0px 2px;
                     cursor: pointer;
                     width: 6px;
@@ -1993,12 +2052,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1590[id="sc-qiKvI"] {
-                    content: "fOuiql,"
+                data-styled.g1056[id="sc-gDpKWH"] {
+                    content: "krXecy,"
                 }
 
                 /*!sc*/
-                .jvlwZW {
+                .hcowWv {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2022,12 +2081,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1594[id="sc-gTJdBB"] {
-                    content: "jvlwZW,"
+                data-styled.g1060[id="sc-dwrTq"] {
+                    content: "hcowWv,"
                 }
 
                 /*!sc*/
-                .dyvpDa {
+                .dhGTZH {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2041,22 +2100,22 @@
                 }
 
                 /*!sc*/
-                data-styled.g1595[id="sc-fLvbzG"] {
-                    content: "dyvpDa,"
+                data-styled.g1061[id="sc-gLOpTZ"] {
+                    content: "dhGTZH,"
                 }
 
                 /*!sc*/
-                .hRoLGj {
+                .jyOEiE {
                     padding: 6px 12px 12px 12px;
                 }
 
                 /*!sc*/
-                data-styled.g1596[id="sc-hsnIkD"] {
-                    content: "hRoLGj,"
+                data-styled.g1062[id="sc-dEtlTY"] {
+                    content: "jyOEiE,"
                 }
 
                 /*!sc*/
-                .ggjmIE {
+                .eOYXda {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2070,22 +2129,22 @@
                 }
 
                 /*!sc*/
-                data-styled.g1597[id="sc-jPjwHU"] {
-                    content: "ggjmIE,"
+                data-styled.g1063[id="sc-cnIjzD"] {
+                    content: "eOYXda,"
                 }
 
                 /*!sc*/
-                .bMJKoI {
+                .gsiFfq {
                     white-space: nowrap;
                 }
 
                 /*!sc*/
-                data-styled.g1600[id="sc-FkYCX"] {
-                    content: "bMJKoI,"
+                data-styled.g1066[id="sc-cHjZAk"] {
+                    content: "gsiFfq,"
                 }
 
                 /*!sc*/
-                .fcKCC {
+                .eXhRmL {
                     border-radius: 8px;
                     background: #1ba672;
                     height: 28px;
@@ -2106,12 +2165,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1601[id="sc-hhiPBc"] {
-                    content: "fcKCC,"
+                data-styled.g1067[id="sc-ffjODP"] {
+                    content: "eXhRmL,"
                 }
 
                 /*!sc*/
-                .jQUKgP {
+                .lieEOr {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2124,12 +2183,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1602[id="sc-iObwlZ"] {
-                    content: "jQUKgP,"
+                data-styled.g1068[id="sc-bXOKDO"] {
+                    content: "lieEOr,"
                 }
 
                 /*!sc*/
-                .dGTtQq {
+                .ecAFHV {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2146,22 +2205,22 @@
                 }
 
                 /*!sc*/
-                data-styled.g1603[id="sc-lkvOtl"] {
-                    content: "dGTtQq,"
+                data-styled.g1069[id="sc-gJvUbq"] {
+                    content: "ecAFHV,"
                 }
 
                 /*!sc*/
-                .ibrOdc {
+                .hnimJr {
                     padding-top: 10px;
                 }
 
                 /*!sc*/
-                data-styled.g1604[id="sc-eqSbbI"] {
-                    content: "ibrOdc,"
+                data-styled.g1070[id="sc-dNblOv"] {
+                    content: "hnimJr,"
                 }
 
                 /*!sc*/
-                .kJYQmV {
+                .cDwJAf {
                     min-width: 310px;
                     background-color: white;
                     border-radius: 16px;
@@ -2177,12 +2236,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1605[id="sc-tEJDr"] {
-                    content: "kJYQmV,"
+                data-styled.g1071[id="sc-gwXLbI"] {
+                    content: "cDwJAf,"
                 }
 
                 /*!sc*/
-                .jpZGa-d {
+                .hcEqIY {
                     width: 100%;
                     display: -webkit-box;
                     display: -webkit-flex;
@@ -2196,34 +2255,34 @@
                 }
 
                 /*!sc*/
-                data-styled.g1619[id="sc-gaGBLo"] {
-                    content: "jpZGa-d,"
+                data-styled.g1085[id="sc-kzDOMn"] {
+                    content: "hcEqIY,"
                 }
 
                 /*!sc*/
-                .gDUcop {
+                .ffvJSL {
                     padding-bottom: 16px;
                 }
 
                 /*!sc*/
-                data-styled.g1620[id="sc-hUKNAl"] {
-                    content: "gDUcop,"
+                data-styled.g1086[id="sc-hFupQm"] {
+                    content: "ffvJSL,"
                 }
 
                 /*!sc*/
-                .kkKAFz {
+                .hcVycy {
                     scrollbar-width: none;
                     overflow-x: auto;
                     overflow-y: hidden;
                 }
 
                 /*!sc*/
-                data-styled.g1622[id="sc-bLNmsL"] {
-                    content: "kkKAFz,"
+                data-styled.g1088[id="sc-iClIQI"] {
+                    content: "hcVycy,"
                 }
 
                 /*!sc*/
-                .bqKHxQ {
+                .bvZiCG {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2232,12 +2291,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1623[id="sc-dUVZvX"] {
-                    content: "bqKHxQ,"
+                data-styled.g1089[id="sc-bLlDLo"] {
+                    content: "bvZiCG,"
                 }
 
                 /*!sc*/
-                .cWNOTg {
+                .rkwke {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2258,12 +2317,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1773[id="sc-fEiTmM"] {
-                    content: "cWNOTg,"
+                data-styled.g1260[id="sc-kROKtq"] {
+                    content: "rkwke,"
                 }
 
                 /*!sc*/
-                .oKTkT {
+                .lkUTZY {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2282,22 +2341,22 @@
                 }
 
                 /*!sc*/
-                data-styled.g1774[id="sc-fCZjUb"] {
-                    content: "oKTkT,"
+                data-styled.g1261[id="sc-hVucgv"] {
+                    content: "lkUTZY,"
                 }
 
                 /*!sc*/
-                .iQtyOd {
+                .gDUbKT {
                     padding-top: 12px;
                 }
 
                 /*!sc*/
-                data-styled.g1775[id="sc-jYRgbu"] {
-                    content: "iQtyOd,"
+                data-styled.g1262[id="sc-hZfifd"] {
+                    content: "gDUbKT,"
                 }
 
                 /*!sc*/
-                .hBWyJn {
+                .hrrHEg {
                     pointer-events: none;
                     -webkit-user-select: none;
                     -moz-user-select: none;
@@ -2306,12 +2365,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1776[id="sc-hA-dPFM"] {
-                    content: "hBWyJn,"
+                data-styled.g1263[id="sc-eRKefc"] {
+                    content: "hrrHEg,"
                 }
 
                 /*!sc*/
-                .cHqBHg {
+                .eTIaHo {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2331,41 +2390,41 @@
                 }
 
                 /*!sc*/
-                data-styled.g1993[id="sc-jDSYws"] {
-                    content: "cHqBHg,"
+                data-styled.g1494[id="sc-hKfzxO"] {
+                    content: "eTIaHo,"
                 }
 
                 /*!sc*/
-                .dZpEYc {
+                .karymR {
                     width: 100%;
                     height: 100%;
                 }
 
                 /*!sc*/
-                .erBqqE {
+                .bmJvLB {
                     width: 50%;
                     height: 100%;
                 }
 
                 /*!sc*/
-                data-styled.g1994[id="sc-bqdzGv"] {
-                    content: "dZpEYc,erBqqE,"
+                data-styled.g1495[id="sc-eNKRkT"] {
+                    content: "karymR,bmJvLB,"
                 }
 
                 /*!sc*/
-                .eAPAJZ {
+                .mHduP {
                     height: 100%;
                     width: 100%;
                     display: block;
                 }
 
                 /*!sc*/
-                data-styled.g1995[id="sc-fLVvNO"] {
-                    content: "eAPAJZ,"
+                data-styled.g1496[id="sc-elTohw"] {
+                    content: "mHduP,"
                 }
 
                 /*!sc*/
-                .kmBebo {
+                .dimSCK {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2383,71 +2442,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g1996[id="sc-dlfbss"] {
-                    content: "kmBebo,"
+                data-styled.g1497[id="sc-bpyFUB"] {
+                    content: "dimSCK,"
                 }
 
                 /*!sc*/
-                .eZqXjk {
-                    padding: 16px 16px 0 16px;
-                    width: 100%;
-                }
-
-                /*!sc*/
-                data-styled.g2141[id="sc-lanwSz"] {
-                    content: "eZqXjk,"
-                }
-
-                /*!sc*/
-                .ebpCNd {
-                    position: relative;
-                    display: -webkit-box;
-                    display: -webkit-flex;
-                    display: -ms-flexbox;
-                    display: flex;
-                    -webkit-align-items: center;
-                    -webkit-box-align: center;
-                    -ms-flex-align: center;
-                    align-items: center;
-                    width: 100%;
-                    margin: 0 auto;
-                    border-radius: 16px;
-                    height: 48px;
-                    background-color: #FFFFFF;
-                    border: 1.5px solid rgba(2, 6, 12, 0.15);
-                }
-
-                /*!sc*/
-                data-styled.g2142[id="sc-iKlHmQ"] {
-                    content: "ebpCNd,"
-                }
-
-                /*!sc*/
-                .ceFslE {
-                    padding-left: 8px;
-                }
-
-                /*!sc*/
-                data-styled.g2143[id="sc-dIJjxV"] {
-                    content: "ceFslE,"
-                }
-
-                /*!sc*/
-                .itjhKU {
-                    position: absolute;
-                    top: 13px;
-                    right: 16px;
-                    width: 20px;
-                    height: 20px;
-                }
-
-                /*!sc*/
-                data-styled.g2144[id="sc-eLKNDq"] {
-                    content: "itjhKU,"
-                }
-
-                /*!sc*/
-                .sKvKY {
+                .fxKHMc {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2467,18 +2467,18 @@
                 }
 
                 /*!sc*/
-                .sKvKY img {
+                .fxKHMc img {
                     width: 100%;
                     height: 100%;
                 }
 
                 /*!sc*/
-                data-styled.g2145[id="sc-kZDZnr"] {
-                    content: "sKvKY,"
+                data-styled.g1554[id="sc-fiefeb"] {
+                    content: "fxKHMc,"
                 }
 
                 /*!sc*/
-                .cOWNa-D {
+                .hhdTAP {
                     width: 100%;
                     text-align: start;
                     margin: 0 auto;
@@ -2492,12 +2492,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g2146[id="sc-cSFpXP"] {
-                    content: "cOWNa-D,"
+                data-styled.g1555[id="sc-jDWblu"] {
+                    content: "hhdTAP,"
                 }
 
                 /*!sc*/
-                .kXNQjn {
+                .fWEBgx {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2515,12 +2515,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g2147[id="sc-bQsbzO"] {
-                    content: "kXNQjn,"
+                data-styled.g1556[id="sc-kYpsJR"] {
+                    content: "fWEBgx,"
                 }
 
                 /*!sc*/
-                .kVjcTs {
+                .jIztzY {
                     background: #FF5200;
                     display: -webkit-box;
                     display: -webkit-flex;
@@ -2542,12 +2542,12 @@
                 }
 
                 /*!sc*/
-                data-styled.g2148[id="sc-kDRPcx"] {
-                    content: "kVjcTs,"
+                data-styled.g1557[id="sc-eeLFso"] {
+                    content: "jIztzY,"
                 }
 
                 /*!sc*/
-                .eGPrjw {
+                .tCcuh {
                     display: -webkit-box;
                     display: -webkit-flex;
                     display: -ms-flexbox;
@@ -2569,8 +2569,8 @@
                 }
 
                 /*!sc*/
-                data-styled.g2149[id="sc-jBEAEw"] {
-                    content: "eGPrjw,"
+                data-styled.g1558[id="sc-hynTX"] {
+                    content: "tCcuh,"
                 }
 
                 /*!sc*/
@@ -2595,29 +2595,29 @@
                                     <p class="Aw0Cv">Delhi, India</p>
                                 </button>
                                 <button class="EIKkW" data-testid="listing-header-account" aria-label="Double tap to go to Account page.">
-                                    <svg aria-hidden="true" height="20" width="20" class="sc-kTLYjO krjwZA">
+                                    <svg aria-hidden="true" height="20" width="20" class="sc-kefZET joepQI">
                                         <use xlink:href="/food/sprite-0RhsIk92.svg#profile20"></use>
                                     </svg>
                                 </button>
                             </div>
                         </div>
                         <div class="_3YFw6">
-                            <div class="sc-kDRPcx kVjcTs">
-                                <div class="sc-kZDZnr sKvKY">
-                                    <div class="sc-cSFpXP cOWNa-D">Order food &amp;groceries. Discover best restaurants. Swiggy it!</div>
-                                    <div class="sc-bQsbzO kXNQjn">
+                            <div class="sc-eeLFso jIztzY">
+                                <div class="sc-fiefeb fxKHMc">
+                                    <div class="sc-jDWblu hhdTAP">Order food &amp;groceries. Discover best restaurants. Swiggy it!</div>
+                                    <div class="sc-kYpsJR fWEBgx">
                                         <div>
                                             <div class="sc-lmoNFi hhFwPI"></div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="sc-jBEAEw eGPrjw">
-                                    <div class="sc-lanwSz eZqXjk">
-                                        <div class="sc-iKlHmQ ebpCNd">
-                                            <div type="button" class="sc-dIJjxV ceFslE">
+                                <div class="sc-hynTX tCcuh">
+                                    <div class="sc-gvMUwQ dMqxQe">
+                                        <div class="sc-jOAYbT hGYYtc">
+                                            <div type="button" class="sc-gUrzfS oQKKM">
                                                 <div class="sc-dlfnOL gplnUw">Search for restaurant, item or more</div>
                                             </div>
-                                            <div class="sc-eLKNDq itjhKU">
+                                            <div class="sc-ScoYh dwjSAr">
                                                 <svg aria-hidden="true" height="20" width="20" class="sc-hKgHXU cAbscq">
                                                     <use xlink:href="/core/sprite-n2wVr1Ar.svg#search20"></use>
                                                 </svg>
@@ -2626,20 +2626,20 @@
                                     </div>
                                 </div>
                             </div>
-                            <div data-testid="nav_tiles" class="sc-dlfbss kmBebo">
-                                <div class="sc-jDSYws cHqBHg">
-                                    <div data-testid="navbar_container__2636217" class="sc-bqdzGv dZpEYc">
-                                        <a href="https://www.swiggy.com/restaurants" title="Dynamic NAV" class="sc-fLVvNO eAPAJZ">
+                            <div data-testid="nav_tiles" class="sc-bpyFUB dimSCK">
+                                <div class="sc-hKfzxO eTIaHo">
+                                    <div data-testid="navbar_container__2636217" class="sc-eNKRkT karymR">
+                                        <a href="https://www.swiggy.com/restaurants" title="Dynamic NAV" class="sc-elTohw mHduP">
                                             <div class="sc-lmoNFi hhFwPI"></div>
                                         </a>
                                     </div>
-                                    <div data-testid="navbar_container__2598567" class="sc-bqdzGv erBqqE">
-                                        <a href="https://www.swiggy.com/instamart?" title="Dynamic Nav" class="sc-fLVvNO eAPAJZ">
+                                    <div data-testid="navbar_container__2598567" class="sc-eNKRkT bmJvLB">
+                                        <a href="https://www.swiggy.com/instamart?" title="Dynamic Nav" class="sc-elTohw mHduP">
                                             <div class="sc-lmoNFi hhFwPI"></div>
                                         </a>
                                     </div>
-                                    <div data-testid="navbar_container__2575664" class="sc-bqdzGv erBqqE">
-                                        <a href="https://www.swiggy.com/dineout" title="Dineout" class="sc-fLVvNO eAPAJZ">
+                                    <div data-testid="navbar_container__2575664" class="sc-eNKRkT bmJvLB">
+                                        <a href="https://www.swiggy.com/dineout" title="Dineout" class="sc-elTohw mHduP">
                                             <div class="sc-lmoNFi hhFwPI"></div>
                                         </a>
                                     </div>
@@ -2647,111 +2647,111 @@
                             </div>
                             <div data-testid="grid-container" id="NewListingView_category_bar_chicletranking_TwoRows_Seo" style="width:100%;padding-top:undefinedpx;padding-bottom:undefinedpx;padding-right:undefinedpx;padding-left:undefinedpx;margin-top:undefinedpx;margin-bottom:undefinedpx;margin-right:undefinedpx;margin-left:undefinedpx;position:static">
                                 <div data-theme="light">
-                                    <div class="sc-eChzZp gjYaua">
-                                        <div class="sc-kEboFj jbFQIc">
-                                            <div class="sc-gLDMEC UHcZE">
-                                                <div class="sc-dlfnOL bIvIEx sc-kIWYCO kRfSzU title">
+                                    <div class="sc-hRYQYr iFycmh">
+                                        <div class="sc-kfNFqV hPQeBR">
+                                            <div class="sc-fUxDce bpWPPt">
+                                                <div class="sc-dlfnOL bIvIEx sc-hIAASd edLLrq title">
                                                     <div></div>
                                                 </div>
-                                                <div class="sc-dlfnOL bcAgTz sc-hRYQYr hjIacZ"></div>
+                                                <div class="sc-dlfnOL bcAgTz sc-caVxnN cXzFXQ"></div>
                                             </div>
                                         </div>
-                                        <div class="sc-JJXYI bImVPf">
+                                        <div class="sc-bHqdww cFOlRs">
                                             <div class="row">
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
@@ -2760,100 +2760,100 @@
                                                 </div>
                                             </div>
                                             <div class="row">
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
                                                         </div>
@@ -2867,323 +2867,323 @@
                             </div>
                             <div data-testid="grid-container" id="taxonomyWidget" style="width:100%;padding-top:undefinedpx;padding-bottom:undefinedpx;padding-right:undefinedpx;padding-left:undefinedpx;margin-top:undefinedpx;margin-bottom:undefinedpx;margin-right:undefinedpx;margin-left:undefinedpx;position:static">
                                 <div data-theme="light">
-                                    <div class="sc-eChzZp gjYaua">
-                                        <div class="sc-kEboFj eDjZgM">
-                                            <div class="sc-gLDMEC UHcZE">
-                                                <div class="sc-dlfnOL bIvIEx sc-kIWYCO kRfSzU title">
+                                    <div class="sc-hRYQYr iFycmh">
+                                        <div class="sc-kfNFqV YQmEl">
+                                            <div class="sc-fUxDce bpWPPt">
+                                                <div class="sc-dlfnOL bIvIEx sc-hIAASd edLLrq title">
                                                     <div></div>
                                                 </div>
-                                                <div class="sc-dlfnOL bcAgTz sc-hRYQYr hjIacZ"></div>
+                                                <div class="sc-dlfnOL bcAgTz sc-caVxnN cXzFXQ"></div>
                                             </div>
                                         </div>
-                                        <div class="sc-JJXYI fkZUdF">
+                                        <div class="sc-bHqdww bebxHO">
                                             <div class="row">
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Fresh Vegetables" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Fresh Vegetables" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Fresh Vegetables</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Fresh Fruits" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Fresh Fruits" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Fresh Fruits</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Dairy, Bread and Eggs" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Dairy, Bread and Eggs" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Dairy, Bread and Eggs</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Rice, Atta and Dals" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Rice, Atta and Dals" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Rice, Atta and Dals</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Masalas and Dry Fruits" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Masalas and Dry Fruits" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Masalas and Dry Fruits</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Oils and Ghee" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Oils and Ghee" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Oils and Ghee</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Munchies" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Munchies" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Munchies</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Sweet Tooth" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Sweet Tooth" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Sweet Tooth</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Cold Drinks and Juices" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Cold Drinks and Juices" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Cold Drinks and Juices</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Biscuits and Cakes" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Biscuits and Cakes" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Biscuits and Cakes</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Instant and Frozen Food" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Instant and Frozen Food" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Instant and Frozen Food</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Meat and Seafood" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Meat and Seafood" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Meat and Seafood</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Cereals and Breakfast" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Cereals and Breakfast" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Cereals and Breakfast</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Sauces and Spreads" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Sauces and Spreads" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Sauces and Spreads</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Tea, Coffee and More" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Tea, Coffee and More" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Tea, Coffee and More</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Cleaning Essentials" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Cleaning Essentials" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Cleaning Essentials</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Pharma and Hygiene" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Pharma and Hygiene" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Pharma and Hygiene</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Bath, Body and Hair" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Bath, Body and Hair" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Bath, Body and Hair</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Paan Corner" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Paan Corner" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Paan Corner</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Home and Kitchen" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Home and Kitchen" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Home and Kitchen</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Office and Electricals" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Office and Electricals" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Office and Electricals</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Baby Care" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Baby Care" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Baby Care</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Pet Supplies" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Pet Supplies" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Pet Supplies</div>
                                                             </div>
                                                         </div>
                                                         <div></div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-gvPyXg jKdDqt">
+                                                <div class="sc-ddzvxH ikcDXu">
                                                     <div>
-                                                        <div class="sc-fCZjUb oKTkT">
-                                                            <button aria-label="Beauty and Grooming" class="sc-fEiTmM cWNOTg">
+                                                        <div class="sc-hVucgv lkUTZY">
+                                                            <button aria-label="Beauty and Grooming" class="sc-kROKtq rkwke">
                                                                 <div class="sc-lmoNFi hhFwPI"></div>
                                                             </button>
-                                                            <div class="sc-jYRgbu iQtyOd">
+                                                            <div class="sc-hZfifd gDUbKT">
                                                                 <div class="sc-dlfnOL TszNs">Beauty and Grooming</div>
                                                             </div>
                                                         </div>
@@ -3195,29 +3195,29 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="sc-gaGBLo jpZGa-d">
-                                <div class="sc-hUKNAl gDUcop">
+                            <div class="sc-kzDOMn hcEqIY">
+                                <div class="sc-hFupQm ffvJSL">
                                     <div class="sc-dlfnOL dVkLGg">Discover best restaurants on Dineout</div>
                                 </div>
-                                <div class="sc-bLNmsL kkKAFz">
-                                    <div class="sc-dUVZvX bqKHxQ">
+                                <div class="sc-iClIQI hcVycy">
+                                    <div class="sc-bLlDLo bvZiCG">
                                         <div>
-                                            <a data-testid="dineout_container__510639" href="https://www.swiggy.com/restaurants/510639/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW coA-dVe"></div>
+                                            <a data-testid="dineout_container__510639" href="https://www.swiggy.com/restaurants/510639/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV cdXoar"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">La Pino &#x27;z Pizza</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
                                                                 <style data-styled="true" data-styled-version="6.4.1">
-                                                                    .bmPluV {
+                                                                    .jccHPs {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3227,7 +3227,7 @@
                                                                         background-size: cover;
                                                                         -webkit-background-position: center;
                                                                         background-position: center;
-                                                                        background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1710412328/63799d6ea1fb7946b6c4992318c7c89d.png);
+                                                                        background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1666930149/vxkthxhvlkagzcryvlc5.jpg);
                                                                         opacity: 0;
                                                                         border-radius: 16px 16px 0px 0px;
                                                                         -webkit-transition: opacity 0.5s ease;
@@ -3236,7 +3236,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .hyipVh {
+                                                                    .kqhlhw {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3255,7 +3255,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .BDYtd {
+                                                                    .gfszlI {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3274,7 +3274,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .fHGvao {
+                                                                    .kHOFgh {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3293,7 +3293,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .ckwXiH {
+                                                                    .hmjcCq {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3312,7 +3312,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .iCihDn {
+                                                                    .ZUsyq {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3331,7 +3331,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .gdslEc {
+                                                                    .bTKMjh {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3350,8 +3350,8 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1588[id="sc-ieHzTW"] {
-                                                                        content: "coA-dVe,byvVmP,llVjg,ivUrwk,dCKdjL,bYZVUt,dYEsZm,itjggV,bmPluV,hyipVh,BDYtd,fHGvao,ckwXiH,iCihDn,gdslEc,"
+                                                                    data-styled.g1054[id="sc-jSgjnV"] {
+                                                                        content: "cdXoar,cirtWO,kAgbMt,eyobAl,hwFgWy,hNHcUY,hZRbsH,jBbFuE,jccHPs,kqhlhw,gfszlI,kHOFgh,hmjcCq,ZUsyq,bTKMjh,"
                                                                     }
 
                                                                     /*!sc*/
@@ -3367,29 +3367,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Beverages<span>• </span>
                                                             Pizza
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹600 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹600 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Aggarwal City Mall, Pitampura, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">5 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">5 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3397,17 +3397,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__733562" href="https://www.swiggy.com/restaurants/733562/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW byvVmP"></div>
+                                            <a data-testid="dineout_container__733562" href="https://www.swiggy.com/restaurants/733562/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV cirtWO"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Mumbai Chutney</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3422,26 +3422,26 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Fast Food</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Sector 44, Noida 1</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 10% off on walk-in</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3449,17 +3449,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1185728" href="https://www.swiggy.com/restaurants/1185728/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW llVjg"></div>
+                                            <a data-testid="dineout_container__1185728" href="https://www.swiggy.com/restaurants/1185728/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV kAgbMt"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Al Karim &#x27;s Foods</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3474,29 +3474,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             North Indian<span>• </span>
                                                             Mughlai
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹500 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹500 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.8 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.8 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 10% off on walk-in</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3504,17 +3504,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1285828" href="https://www.swiggy.com/restaurants/1285828/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW ivUrwk"></div>
+                                            <a data-testid="dineout_container__1285828" href="https://www.swiggy.com/restaurants/1285828/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV eyobAl"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Salt and Smoke</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3529,29 +3529,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Italian<span>• </span>
                                                             Chinese
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1700 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1700 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Punjabi Bagh, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">7.2 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">7.2 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 55% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 3 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3559,17 +3559,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__509687" href="https://www.swiggy.com/restaurants/509687/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW dCKdjL"></div>
+                                            <a data-testid="dineout_container__509687" href="https://www.swiggy.com/restaurants/509687/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV hwFgWy"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Baozi Momos</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3584,29 +3584,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Fast Food
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.8 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.8 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 10% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3614,17 +3614,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1000254" href="https://www.swiggy.com/restaurants/1000254/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW bYZVUt"></div>
+                                            <a data-testid="dineout_container__1000254" href="https://www.swiggy.com/restaurants/1000254/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV hNHcUY"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Food Lover</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3639,26 +3639,26 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Chinese</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹500 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹500 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">1 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">1 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 10% off on walk-in</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3666,17 +3666,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__542147" href="https://www.swiggy.com/restaurants/542147/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW dYEsZm"></div>
+                                            <a data-testid="dineout_container__542147" href="https://www.swiggy.com/restaurants/542147/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV hZRbsH"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">La Pino &#x27;z Pizza</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3691,29 +3691,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Beverages<span>• </span>
                                                             Pizza
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹500 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹500 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Punjabi Bagh, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">7.4 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">7.4 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3721,22 +3721,22 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__626728" href="https://www.swiggy.com/restaurants/626728/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW itjggV"></div>
+                                            <a data-testid="dineout_container__855371" href="https://www.swiggy.com/restaurants/855371/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jBbFuE"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
-                                                        <div class="sc-dlfnOL fuPtOp">Instapizza</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                    <div class="sc-dwrTq hcowWv">
+                                                        <div class="sc-dlfnOL fuPtOp">Ob Pizza Burger Point</div>
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
                                                                 <style data-styled="true" data-styled-version="6.4.1">
-                                                                    .PVYoe {
+                                                                    .jOCLpr {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3755,7 +3755,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .bjcfgd {
+                                                                    .brVYRE {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3774,7 +3774,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .gsshcE {
+                                                                    .iOyaAF {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3793,7 +3793,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .jHnDjm {
+                                                                    .iTMrcj {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3812,7 +3812,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .flYMDj {
+                                                                    .fuazOm {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3831,7 +3831,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .cRVymq {
+                                                                    .fDbXWb {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3850,7 +3850,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .fDgyil {
+                                                                    .jZvGfw {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -3869,8 +3869,8 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1588[id="sc-ieHzTW"] {
-                                                                        content: "coA-dVe,byvVmP,llVjg,ivUrwk,dCKdjL,bYZVUt,dYEsZm,itjggV,bmPluV,hyipVh,BDYtd,fHGvao,ckwXiH,iCihDn,gdslEc,PVYoe,bjcfgd,gsshcE,jHnDjm,flYMDj,cRVymq,fDgyil,"
+                                                                    data-styled.g1054[id="sc-jSgjnV"] {
+                                                                        content: "cdXoar,cirtWO,kAgbMt,eyobAl,hwFgWy,hNHcUY,hZRbsH,jBbFuE,jccHPs,kqhlhw,gfszlI,kHOFgh,hmjcCq,ZUsyq,bTKMjh,jOCLpr,brVYRE,iOyaAF,iTMrcj,fuazOm,fDbXWb,jZvGfw,"
                                                                     }
 
                                                                     /*!sc*/
@@ -3882,33 +3882,33 @@
                                                                     </linearGradient>
                                                                 </defs>
                                                             </svg>
-                                                            <div class="sc-dlfnOL ehyTcq">--</div>
+                                                            <div class="sc-dlfnOL ehyTcq">4.5</div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
-                                                            Pizza<span>• </span>
+                                                            Italian<span>• </span>
                                                             Fast Food
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹700 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">1.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
-                                                            <div class="sc-dlfnOL fVhZxu">Flat 15% off on pre-booking</div>
+                                                            <div class="sc-dlfnOL fVhZxu">Flat 10% off on walk-in</div>
                                                         </div>
-                                                        <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
+                                                        <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3916,17 +3916,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__855371" href="https://www.swiggy.com/restaurants/855371/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW bmPluV"></div>
+                                            <a data-testid="dineout_container__626728" href="https://www.swiggy.com/restaurants/626728/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jccHPs"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
-                                                        <div class="sc-dlfnOL fuPtOp">Ob Pizza Burger Point</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                    <div class="sc-dwrTq hcowWv">
+                                                        <div class="sc-dlfnOL fuPtOp">Instapizza</div>
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3937,33 +3937,33 @@
                                                                     </linearGradient>
                                                                 </defs>
                                                             </svg>
-                                                            <div class="sc-dlfnOL ehyTcq">4.5</div>
+                                                            <div class="sc-dlfnOL ehyTcq">--</div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
-                                                            Italian<span>• </span>
+                                                            Pizza<span>• </span>
                                                             Fast Food
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹700 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">1.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
-                                                            <div class="sc-dlfnOL fVhZxu">Flat 10% off on walk-in</div>
+                                                            <div class="sc-dlfnOL fVhZxu">Flat 15% off on pre-booking</div>
                                                         </div>
-                                                        <div class="sc-dlfnOL eAfAPk">+ 1 more</div>
+                                                        <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -3971,17 +3971,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__851768" href="https://www.swiggy.com/restaurants/851768/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW hyipVh"></div>
+                                            <a data-testid="dineout_container__851768" href="https://www.swiggy.com/restaurants/851768/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV kqhlhw"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">The Waffle Co.</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -3996,29 +3996,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Beverages<span>• </span>
                                                             Desserts
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹600 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹600 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Shalimar Bagh, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">9.3 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">9.3 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 25% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra 10% off using TRYNEW</div>
                                                     </div>
                                                 </div>
@@ -4026,17 +4026,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__5681" href="https://www.swiggy.com/restaurants/5681/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW BDYtd"></div>
+                                            <a data-testid="dineout_container__5681" href="https://www.swiggy.com/restaurants/5681/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV gfszlI"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Berco &#x27;s - If You Love Chinese</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4051,29 +4051,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Asian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1300 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1300 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Janak Place District Centre, Janakpuri, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">9.1 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">9.1 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 6 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra 10% off using TRYNEW</div>
                                                     </div>
                                                 </div>
@@ -4081,17 +4081,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__22702" href="https://www.swiggy.com/restaurants/22702/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW fHGvao"></div>
+                                            <a data-testid="dineout_container__22702" href="https://www.swiggy.com/restaurants/22702/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV kHOFgh"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Berco &#x27;s - If You Love Chinese</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4106,29 +4106,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Asian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1300 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1300 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">East Patel Nagar, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">11.6 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">11.6 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 15% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra 10% off using TRYNEW</div>
                                                     </div>
                                                 </div>
@@ -4136,17 +4136,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__414354" href="https://www.swiggy.com/restaurants/414354/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW ckwXiH"></div>
+                                            <a data-testid="dineout_container__414354" href="https://www.swiggy.com/restaurants/414354/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV hmjcCq"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Berco &#x27;s - If You Love Chinese</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4161,29 +4161,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Thai
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1300 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1300 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Omaxe Connaught Place Mall, Beta 2, Noida 1</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">55.6 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">55.6 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra 10% off using TRYNEW</div>
                                                     </div>
                                                 </div>
@@ -4191,17 +4191,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__600860" href="https://www.swiggy.com/restaurants/600860/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW iCihDn"></div>
+                                            <a data-testid="dineout_container__600860" href="https://www.swiggy.com/restaurants/600860/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV ZUsyq"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Somewhere Restaurant &amp;Bar</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4216,29 +4216,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Continental<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹2300 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹2300 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Laxmi Building, Connaught Place, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">16.4 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">16.4 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 50% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 6 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4246,22 +4246,22 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__893673" href="https://www.swiggy.com/restaurants/893673/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW gdslEc"></div>
+                                            <a data-testid="dineout_container__893673" href="https://www.swiggy.com/restaurants/893673/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV bTKMjh"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Canopy Pool Bar &amp;Lounge</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
                                                                 <style data-styled="true" data-styled-version="6.4.1">
-                                                                    .icNbwv {
+                                                                    .jskfJG {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4280,7 +4280,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .fszvFH {
+                                                                    .LqSZq {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4299,7 +4299,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .ekyKfZ {
+                                                                    .daWcsE {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4318,7 +4318,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .hbGrbU {
+                                                                    .jngyth {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4337,7 +4337,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .dgaLyf {
+                                                                    .bqMQtO {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4356,7 +4356,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .iLVHaN {
+                                                                    .iaOtSg {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4375,7 +4375,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .kNoqmO {
+                                                                    .fQIUJn {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -4394,8 +4394,8 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1588[id="sc-ieHzTW"] {
-                                                                        content: "coA-dVe,byvVmP,llVjg,ivUrwk,dCKdjL,bYZVUt,dYEsZm,itjggV,bmPluV,hyipVh,BDYtd,fHGvao,ckwXiH,iCihDn,gdslEc,PVYoe,bjcfgd,gsshcE,jHnDjm,flYMDj,cRVymq,fDgyil,icNbwv,fszvFH,ekyKfZ,hbGrbU,dgaLyf,iLVHaN,kNoqmO,"
+                                                                    data-styled.g1054[id="sc-jSgjnV"] {
+                                                                        content: "cdXoar,cirtWO,kAgbMt,eyobAl,hwFgWy,hNHcUY,hZRbsH,jBbFuE,jccHPs,kqhlhw,gfszlI,kHOFgh,hmjcCq,ZUsyq,bTKMjh,jOCLpr,brVYRE,iOyaAF,iTMrcj,fuazOm,fDbXWb,jZvGfw,jskfJG,LqSZq,daWcsE,jngyth,bqMQtO,iaOtSg,fQIUJn,"
                                                                     }
 
                                                                     /*!sc*/
@@ -4411,29 +4411,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1200 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1200 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Hibiscus Select Hotel, Sector 4, Noida</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">40.5 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">40.5 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
-                                                            <div class="sc-dlfnOL fVhZxu">Flat 40% off on pre-booking</div>
+                                                            <div class="sc-dlfnOL fVhZxu">Flat 60% off on pre-booking</div>
                                                         </div>
-                                                        <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
+                                                        <div class="sc-dlfnOL eAfAPk">+ 5 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4441,17 +4441,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__5447" href="https://www.swiggy.com/restaurants/5447/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW PVYoe"></div>
+                                            <a data-testid="dineout_container__5447" href="https://www.swiggy.com/restaurants/5447/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jOCLpr"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Berco &#x27;s - If You Love Chinese</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4466,29 +4466,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Asian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1300 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1300 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">MGF Metropolitan Mall, Saket, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">29 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">29 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 5 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra 10% off using TRYNEW</div>
                                                     </div>
                                                 </div>
@@ -4496,17 +4496,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__7859" href="https://www.swiggy.com/restaurants/7859/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW bjcfgd"></div>
+                                            <a data-testid="dineout_container__7859" href="https://www.swiggy.com/restaurants/7859/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV brVYRE"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Wok In The Clouds</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4521,29 +4521,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Asian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹2100 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹2100 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Punjabi Bagh, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">7.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">7.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 20% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4551,17 +4551,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__441917" href="https://www.swiggy.com/restaurants/441917/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW gsshcE"></div>
+                                            <a data-testid="dineout_container__441917" href="https://www.swiggy.com/restaurants/441917/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV iOyaAF"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Suravie Live it Up</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4576,29 +4576,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Bar Food<span>• </span>
                                                             Continental
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1100 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1100 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Pacific Mall, Netaji Subhash Place, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">6.4 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">6.4 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 50% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4606,17 +4606,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__5471" href="https://www.swiggy.com/restaurants/5471/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW jHnDjm"></div>
+                                            <a data-testid="dineout_container__5471" href="https://www.swiggy.com/restaurants/5471/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV iTMrcj"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Wok In The Clouds</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4631,29 +4631,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Asian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹2100 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹2100 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">BK Dutta Market, Rajouri Garden, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">9.2 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">9.2 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 20% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 3 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4661,17 +4661,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__647227" href="https://www.swiggy.com/restaurants/647227/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW flYMDj"></div>
+                                            <a data-testid="dineout_container__647227" href="https://www.swiggy.com/restaurants/647227/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV fuazOm"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Flluid </div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4686,29 +4686,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Continental<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1200 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1200 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Mosaic Hotel, Sector 18, Noida 1</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">31.2 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">31.2 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 50% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4716,17 +4716,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__641449" href="https://www.swiggy.com/restaurants/641449/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW cRVymq"></div>
+                                            <a data-testid="dineout_container__641449" href="https://www.swiggy.com/restaurants/641449/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV fDbXWb"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Rajasthani Thali - Bikanervala</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -4741,29 +4741,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Fast Food<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹800 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹800 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Kirti Nagar, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">11.2 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">11.2 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 35% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -4771,17 +4771,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1333815" href="https://www.swiggy.com/restaurants/1333815/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW fDgyil"></div>
+                                            <a data-testid="dineout_container__1333815" href="https://www.swiggy.com/restaurants/1333815/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jZvGfw"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Shake Master</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5377,7 +5377,7 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .ibxoCa {
+                                                                    .dCxYuX {
                                                                         position: absolute;
                                                                         top: 0;
                                                                         left: 0;
@@ -5396,22 +5396,22 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1588[id="sc-ieHzTW"] {
-                                                                        content: "coA-dVe,byvVmP,llVjg,ivUrwk,dCKdjL,bYZVUt,dYEsZm,itjggV,bmPluV,hyipVh,BDYtd,fHGvao,ckwXiH,iCihDn,gdslEc,PVYoe,bjcfgd,gsshcE,jHnDjm,flYMDj,cRVymq,fDgyil,icNbwv,fszvFH,ekyKfZ,hbGrbU,dgaLyf,iLVHaN,kNoqmO,ibxoCa,"
+                                                                    data-styled.g1054[id="sc-jSgjnV"] {
+                                                                        content: "cdXoar,cirtWO,kAgbMt,eyobAl,hwFgWy,hNHcUY,hZRbsH,jBbFuE,jccHPs,kqhlhw,gfszlI,kHOFgh,hmjcCq,ZUsyq,bTKMjh,jOCLpr,brVYRE,iOyaAF,iTMrcj,fuazOm,fDbXWb,jZvGfw,jskfJG,LqSZq,daWcsE,jngyth,bqMQtO,iaOtSg,fQIUJn,dCxYuX,"
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .cVDwOD {
+                                                                    .ejApgu {
                                                                         width: 100%;
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1937[id="sc-bDcJCM"] {
-                                                                        content: "cVDwOD,"
+                                                                    data-styled.g1424[id="sc-kVhsio"] {
+                                                                        content: "ejApgu,"
                                                                     }
 
                                                                     /*!sc*/
-                                                                    .ekdmSj {
+                                                                    .bMJHcA {
                                                                         display: -webkit-box;
                                                                         display: -webkit-flex;
                                                                         display: -ms-flexbox;
@@ -5425,8 +5425,8 @@
                                                                     }
 
                                                                     /*!sc*/
-                                                                    data-styled.g1938[id="sc-eVQNhP"] {
-                                                                        content: "ekdmSj,"
+                                                                    data-styled.g1425[id="sc-bmEpup"] {
+                                                                        content: "bMJHcA,"
                                                                     }
 
                                                                     /*!sc*/
@@ -5442,29 +5442,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Chinese<span>• </span>
                                                             Pizza
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.4 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.4 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 25% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5472,17 +5472,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__316673" href="https://www.swiggy.com/restaurants/316673/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW icNbwv"></div>
+                                            <a data-testid="dineout_container__316673" href="https://www.swiggy.com/restaurants/316673/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jskfJG"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Shubham Soup Wala</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5497,29 +5497,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             North Indian<span>• </span>
                                                             Pasta
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rithala, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.5 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.5 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 25% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5527,17 +5527,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1265857" href="https://www.swiggy.com/restaurants/1265857/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW fszvFH"></div>
+                                            <a data-testid="dineout_container__1265857" href="https://www.swiggy.com/restaurants/1265857/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV LqSZq"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">YouMee</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5552,29 +5552,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Asian<span>• </span>
                                                             Japanese
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹2100 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹2100 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Unity One Elegante, Netaji Subhash Place, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">6.1 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">6.1 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 20% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 3 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5582,17 +5582,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1336638" href="https://www.swiggy.com/restaurants/1336638/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW ekyKfZ"></div>
+                                            <a data-testid="dineout_container__1336638" href="https://www.swiggy.com/restaurants/1336638/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV daWcsE"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Tandoori Chaska</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5607,29 +5607,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             North Indian<span>• </span>
                                                             Momos
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹400 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹400 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Aggarwal Plaza, Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.6 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.6 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 3 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5637,17 +5637,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1285401" href="https://www.swiggy.com/restaurants/1285401/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW hbGrbU"></div>
+                                            <a data-testid="dineout_container__1285401" href="https://www.swiggy.com/restaurants/1285401/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV jngyth"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Daal Baati Rasoi</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5662,29 +5662,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             North Indian<span>• </span>
                                                             Pizza
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹500 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹500 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Rohini, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 6 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5692,17 +5692,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1265860" href="https://www.swiggy.com/restaurants/1265860/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW dgaLyf"></div>
+                                            <a data-testid="dineout_container__1265860" href="https://www.swiggy.com/restaurants/1265860/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV bqMQtO"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Punjab Grill</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5717,29 +5717,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Mughlai<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹2000 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹2000 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Aggarwal Millennium Tower-1, Netaji Subhash Place, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">6.1 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">6.1 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 25% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 3 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5747,17 +5747,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1386912" href="https://www.swiggy.com/restaurants/1386912/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW iLVHaN"></div>
+                                            <a data-testid="dineout_container__1386912" href="https://www.swiggy.com/restaurants/1386912/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV iaOtSg"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Chaiholic</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5772,29 +5772,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Italian<span>• </span>
                                                             Continental
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹500 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹500 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Sector 3, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 20% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5802,17 +5802,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1387239" href="https://www.swiggy.com/restaurants/1387239/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW kNoqmO"></div>
+                                            <a data-testid="dineout_container__1387239" href="https://www.swiggy.com/restaurants/1387239/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV fQIUJn"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Olive &amp;Plum</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5827,29 +5827,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             Continental<span>• </span>
                                                             Chinese
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1000 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1000 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Sector 3, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">0.7 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">0.7 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 20% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 2 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5857,17 +5857,17 @@
                                             <div></div>
                                         </div>
                                         <div>
-                                            <a data-testid="dineout_container__1369230" href="https://www.swiggy.com/restaurants/1369230/dineout" class="sc-tEJDr kJYQmV">
-                                                <div class="sc-fqOBFM fEEmXf">
-                                                    <div class="sc-dIPDMD fCWXin">
-                                                        <div class="sc-ieHzTW ibxoCa"></div>
+                                            <a data-testid="dineout_container__1369230" href="https://www.swiggy.com/restaurants/1369230/dineout" class="sc-gwXLbI cDwJAf">
+                                                <div class="sc-hAyXqv cLDveN">
+                                                    <div class="sc-bzfibU THJfz">
+                                                        <div class="sc-jSgjnV dCxYuX"></div>
                                                     </div>
-                                                    <div class="sc-hjMxNl duZmR">
-                                                        <div class="sc-qiKvI fOuiql"></div>
+                                                    <div class="sc-jzKtjC lgMswG">
+                                                        <div class="sc-gDpKWH krXecy"></div>
                                                     </div>
-                                                    <div class="sc-gTJdBB jvlwZW">
+                                                    <div class="sc-dwrTq hcowWv">
                                                         <div class="sc-dlfnOL fuPtOp">Dasaprakash</div>
-                                                        <div class="sc-fLvbzG dyvpDa">
+                                                        <div class="sc-gLOpTZ dhGTZH">
                                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                                                                 <circle cx="8.00005" cy="7.99999" r="7.2" fill="url(#StoreRating16_svg__paint0_linear_32982_71565)"></circle>
                                                                 <path d="M8.06524 10.292C8.02495 10.2683 7.97496 10.2683 7.93466 10.292L5.85313 11.5174C5.54781 11.6972 5.1768 11.4206 5.26191 11.0766L5.8205 8.81958C5.83239 8.77154 5.81567 8.72094 5.77751 8.68943L3.96412 7.19223C3.68661 6.96312 3.82918 6.51269 4.18797 6.48497L6.58754 6.29955C6.63517 6.29587 6.67685 6.2661 6.69578 6.22223L7.63269 4.05109C7.77165 3.72907 8.22825 3.72907 8.36722 4.05109L9.30412 6.22223C9.32305 6.2661 9.36473 6.29587 9.41237 6.29955L11.8119 6.48497C12.1707 6.51269 12.3133 6.96312 12.0358 7.19223L10.2224 8.68943C10.1842 8.72094 10.1675 8.77154 10.1794 8.81958L10.738 11.0766C10.8231 11.4205 10.4521 11.6972 10.1468 11.5174L8.06524 10.292Z" fill="white"></path>
@@ -5882,29 +5882,29 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="sc-hsnIkD hRoLGj">
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                <div class="sc-dEtlTY jyOEiE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">
                                                             South Indian<span>• </span>
                                                             North Indian
                                                         </div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">₹1000 for two</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">₹1000 for two</div>
                                                     </div>
-                                                    <div class="sc-jPjwHU ggjmIE">
+                                                    <div class="sc-cnIjzD eOYXda">
                                                         <div class="sc-dlfnOL gyTPzt">Aggarwal Cyber Plaza-1, Netaji Subhash Place, Delhi</div>
-                                                        <div class="sc-dlfnOL grdJWD sc-FkYCX bMJKoI">6.4 km</div>
+                                                        <div class="sc-dlfnOL grdJWD sc-cHjZAk gsiFfq">6.4 km</div>
                                                     </div>
-                                                    <div class="sc-hhiPBc fcKCC">
-                                                        <div class="sc-iObwlZ jQUKgP">
+                                                    <div class="sc-ffjODP eXhRmL">
+                                                        <div class="sc-bXOKDO lieEOr">
                                                             <div width="26px" height="20px" class="sc-lmoNFi gIcbbm"></div>
                                                             <div class="sc-dlfnOL fVhZxu">Flat 30% off on pre-booking</div>
                                                         </div>
                                                         <div class="sc-dlfnOL eAfAPk">+ 4 more</div>
                                                     </div>
-                                                    <div class="sc-lkvOtl dGTtQq">
+                                                    <div class="sc-gJvUbq ecAFHV">
                                                         <div class="sc-dlfnOL fvDbOF">Up to 10% off with bank offers</div>
                                                     </div>
-                                                    <div class="sc-eqSbbI ibrOdc">
+                                                    <div class="sc-dNblOv hnimJr">
                                                         <div class="sc-dlfnOL ihPqYL">Get extra ₹50 off using PAYTMUPI</div>
                                                     </div>
                                                 </div>
@@ -5914,9 +5914,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div data-testid="interlinking_infolist" class="sc-bDcJCM cVDwOD">
+                            <div data-testid="interlinking_infolist" class="sc-kVhsio ejApgu">
                                 <h2 class="sc-dlfnOL XnJXv">Cities with food delivery</h2>
-                                <div class="sc-eVQNhP ekdmSj"></div>
+                                <div class="sc-bmEpup bMJHcA"></div>
                             </div>
                             <div class="sc-lbZtsy hHOGyQ">
                                 <div class="sc-beTjjZ euBcLX">
@@ -9938,7 +9938,7 @@
             </div>
         </div>
         <script>
-            window._csrfToken = "fwadZ6Va5Phh-gxMAGtizHpU-cqEDXEHOrhL2dhM";
+            window._csrfToken = "yQkwDs6eQ84Z-EQRJpd0DQ_41RgfIfRBb6nQWosg";
             window.___INITIAL_STATE__ = {
                 "cityList": [{
                     "slug": "bangalore",
@@ -13095,12 +13095,12 @@
                 "newHomePage": {
                     "data": {
                         "statusCode": 0,
-                        "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODU5MTgzMDIsImlhdCI6MTc4NTkxNDcwMiwic2Vzc2lvbl9kYXRhIjoielIybUhCMVp6NW13S2xrdWJsdmJiL2RyVHZ6ZkNqSzRLZy9aeGROV2FWWElUZ1NscS9tSDdrczc0ZjRZaTJVTWdybjRuYS9ucDNUS2MzZUVkTytKNDRqTU5od0J3VFNjbkIzU2ZVeUV0dE9yMWZDTUFMMmJCdnAzemttRDEzc1BGdkQySFFsZDVteU91a3BMZDMyTjNQc0RoZTFweEtUVitSTWhkSXdRT0I3M0JuaDFVV0lpY3hUbzh3dWNabk1ZRjhvdlRmK1YxUGt0cHpMWVg3YWQ1Zz09Iiwic2lkIjoic3ZvMWU5NThmNDMtYjdjMi00MDFlLWFkMTUtZTBkOWJkYjg5Iiwic3ViIjoiMjcwYTMxYzUtMmJjMi00OGIzLTlmNjYtMzdjODBmYTY5NTExIiwidXNlcl9pZCI6IjAifQ.lcWvSU2k77iF9pq4HnWqKAq3scLh84LhU2CsKJMdaU0",
-                        "sid": "svo1e958f43-b7c2-401e-ad15-e0d9bdb89",
+                        "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODYwMDE5MDUsImlhdCI6MTc4NTk5ODMwNSwic2Vzc2lvbl9kYXRhIjoiVWNVeDgzQ05FT1JuSTlWTHdSQlpmYi93Zldid3hWdW5jRkdRUHp6UTJOdktUditQN3dwY09QM2crSUNPMlJHaGw3b2Y3a2VIbFJWUktCalBub0twRzJNRXZzZks5RVQ0RnVrMW5YR1gvQnd5K2RGYWxmRkh4OGZiRi9DeTJQY1Z5Ums2Rm1hb2VMU1FSNTk0OXpZYTJIY2lrOHhOVXB3WXRUeUF3Q3FjWW9GVFIvb2FIdzlCekJKbktNMmdhcERVOHY1SkJZQ2szT04wR3l2WGprdGVqdz09Iiwic2lkIjoic3djMjA5YWVlYTctMjEzOC00MDlkLTgwMmQtMzQyYzU5NmZmIiwic3ViIjoiODFmMjJiMzItNDVhZC00YmI0LTliZjQtZThhMDdjODg3YjcwIiwidXNlcl9pZCI6IjAifQ.4kZDi4yeHHV9V_Ih2jWkMmNyJCQlw2wu5L9GyiNH4Wc",
+                        "sid": "swc209aeea7-2138-409d-802d-342c596ff",
                         "deviceId": "3d8a7896-ecb3-bc93-f1b0-286b853619cc",
-                        "requestId": "d5153ea9-65f8-4301-b9f4-ce402a4e5448",
-                        "apiTime": "2026-08-05T08:17:02.394259999Z",
-                        "jid": "svj65e31-8527-4060-a3ea-7ccf195e0fd6",
+                        "requestId": "c0b139cb-014b-44c9-965e-3801b98a233f",
+                        "apiTime": "2026-08-06T06:50:11.577065834Z",
+                        "jid": "sw657c88-06cf-4a9b-a66c-9971a4f90760",
                         "encodedLocationCtx": "eyJjaXR5SWQiOiI0IiwiY2l0eU5hbWUiOiJEZWxoaSIsImxhdExuZyI6eyJsYXRpdHVkZSI6MjguNzA0MDU5MiwibG9uZ2l0dWRlIjo3Ny4xMDI0OTAxOTk5OTk5OX0sInpvbmVJZCI6IjIxOCIsImdlb1pvbmVJZHMiOlsiMjE4Il19",
                         "success": {
                             "statusMessage": "done successfully",
@@ -13306,28 +13306,6 @@
                                                     "cta": {}
                                                 }
                                             }, {
-                                                "id": "2568574",
-                                                "imageId": "PC_Mweb/Burger.png",
-                                                "action": {
-                                                    "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                                    "text": "Burgers",
-                                                    "type": "DEEPLINK"
-                                                },
-                                                "entityType": "BANNER",
-                                                "accessibility": {
-                                                    "altText": "restaurants curated for burger",
-                                                    "altTextCta": "open"
-                                                },
-                                                "entityId": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                                "frequencyCapping": {},
-                                                "externalMarketing": {},
-                                                "overlayIcon": {},
-                                                "footerOverlay": {
-                                                    "title": {},
-                                                    "subtitle": {},
-                                                    "cta": {}
-                                                }
-                                            }, {
                                                 "id": "2568016",
                                                 "imageId": "PC_Mweb/Pizza.png",
                                                 "action": {
@@ -13363,6 +13341,28 @@
                                                     "altTextCta": "open"
                                                 },
                                                 "entityId": "https://www.swiggy.com/collections/83661?collection_id=83661&search_context=desserts&tags=layout_CCS_Desserts&type=rcv2",
+                                                "frequencyCapping": {},
+                                                "externalMarketing": {},
+                                                "overlayIcon": {},
+                                                "footerOverlay": {
+                                                    "title": {},
+                                                    "subtitle": {},
+                                                    "cta": {}
+                                                }
+                                            }, {
+                                                "id": "2568574",
+                                                "imageId": "PC_Mweb/Burger.png",
+                                                "action": {
+                                                    "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                                                    "text": "Burgers",
+                                                    "type": "DEEPLINK"
+                                                },
+                                                "entityType": "BANNER",
+                                                "accessibility": {
+                                                    "altText": "restaurants curated for burger",
+                                                    "altTextCta": "open"
+                                                },
+                                                "entityId": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13416,28 +13416,6 @@
                                                     "cta": {}
                                                 }
                                             }, {
-                                                "id": "2568339",
-                                                "imageId": "PC_Mweb/Biryani.png",
-                                                "action": {
-                                                    "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                                    "text": "Biryani",
-                                                    "type": "DEEPLINK"
-                                                },
-                                                "entityType": "BANNER",
-                                                "accessibility": {
-                                                    "altText": "restaurants curated for biryani",
-                                                    "altTextCta": "open"
-                                                },
-                                                "entityId": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                                "frequencyCapping": {},
-                                                "externalMarketing": {},
-                                                "overlayIcon": {},
-                                                "footerOverlay": {
-                                                    "title": {},
-                                                    "subtitle": {},
-                                                    "cta": {}
-                                                }
-                                            }, {
                                                 "id": "2568009",
                                                 "imageId": "PC_Mweb/Chinese.png",
                                                 "action": {
@@ -13451,28 +13429,6 @@
                                                     "altTextCta": "open"
                                                 },
                                                 "entityId": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
-                                                "frequencyCapping": {},
-                                                "externalMarketing": {},
-                                                "overlayIcon": {},
-                                                "footerOverlay": {
-                                                    "title": {},
-                                                    "subtitle": {},
-                                                    "cta": {}
-                                                }
-                                            }, {
-                                                "id": "2568034",
-                                                "imageId": "PC_Mweb/Rolls.png",
-                                                "action": {
-                                                    "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
-                                                    "text": "Rolls",
-                                                    "type": "DEEPLINK"
-                                                },
-                                                "entityType": "BANNER",
-                                                "accessibility": {
-                                                    "altText": "restaurants curated for roll",
-                                                    "altTextCta": "open"
-                                                },
-                                                "entityId": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13504,6 +13460,50 @@
                                                     "cta": {}
                                                 }
                                             }, {
+                                                "id": "2568339",
+                                                "imageId": "PC_Mweb/Biryani.png",
+                                                "action": {
+                                                    "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                                    "text": "Biryani",
+                                                    "type": "DEEPLINK"
+                                                },
+                                                "entityType": "BANNER",
+                                                "accessibility": {
+                                                    "altText": "restaurants curated for biryani",
+                                                    "altTextCta": "open"
+                                                },
+                                                "entityId": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                                "frequencyCapping": {},
+                                                "externalMarketing": {},
+                                                "overlayIcon": {},
+                                                "footerOverlay": {
+                                                    "title": {},
+                                                    "subtitle": {},
+                                                    "cta": {}
+                                                }
+                                            }, {
+                                                "id": "2568034",
+                                                "imageId": "PC_Mweb/Rolls.png",
+                                                "action": {
+                                                    "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                                                    "text": "Rolls",
+                                                    "type": "DEEPLINK"
+                                                },
+                                                "entityType": "BANNER",
+                                                "accessibility": {
+                                                    "altText": "restaurants curated for roll",
+                                                    "altTextCta": "open"
+                                                },
+                                                "entityId": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                                                "frequencyCapping": {},
+                                                "externalMarketing": {},
+                                                "overlayIcon": {},
+                                                "footerOverlay": {
+                                                    "title": {},
+                                                    "subtitle": {},
+                                                    "cta": {}
+                                                }
+                                            }, {
                                                 "id": "2568346",
                                                 "imageId": "PC_Mweb/Noodles.png",
                                                 "action": {
@@ -13517,28 +13517,6 @@
                                                     "altTextCta": "open"
                                                 },
                                                 "entityId": "https://www.swiggy.com/collections/80463?collection_id=80463&type=rcv2&tags=layout_ux4",
-                                                "frequencyCapping": {},
-                                                "externalMarketing": {},
-                                                "overlayIcon": {},
-                                                "footerOverlay": {
-                                                    "title": {},
-                                                    "subtitle": {},
-                                                    "cta": {}
-                                                }
-                                            }, {
-                                                "id": "2568041",
-                                                "imageId": "PC_Mweb/Pasta.png",
-                                                "action": {
-                                                    "link": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
-                                                    "text": "Pasta",
-                                                    "type": "DEEPLINK"
-                                                },
-                                                "entityType": "BANNER",
-                                                "accessibility": {
-                                                    "altText": "restaurant curated for pasta",
-                                                    "altTextCta": "open"
-                                                },
-                                                "entityId": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13570,19 +13548,19 @@
                                                     "cta": {}
                                                 }
                                             }, {
-                                                "id": "2568580",
-                                                "imageId": "PC_Mweb/Coffee.png",
+                                                "id": "2568041",
+                                                "imageId": "PC_Mweb/Pasta.png",
                                                 "action": {
-                                                    "link": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
-                                                    "text": "Coffee",
+                                                    "link": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
+                                                    "text": "Pasta",
                                                     "type": "DEEPLINK"
                                                 },
                                                 "entityType": "BANNER",
                                                 "accessibility": {
-                                                    "altText": "restaurants curated for coffee",
+                                                    "altText": "restaurant curated for pasta",
                                                     "altTextCta": "open"
                                                 },
-                                                "entityId": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
+                                                "entityId": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13614,28 +13592,6 @@
                                                     "cta": {}
                                                 }
                                             }, {
-                                                "id": "2568314",
-                                                "imageId": "PC_Mweb/Idli.png",
-                                                "action": {
-                                                    "link": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
-                                                    "text": "Idli",
-                                                    "type": "DEEPLINK"
-                                                },
-                                                "entityType": "BANNER",
-                                                "accessibility": {
-                                                    "altText": "restaurants curated for idly",
-                                                    "altTextCta": "open"
-                                                },
-                                                "entityId": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
-                                                "frequencyCapping": {},
-                                                "externalMarketing": {},
-                                                "overlayIcon": {},
-                                                "footerOverlay": {
-                                                    "title": {},
-                                                    "subtitle": {},
-                                                    "cta": {}
-                                                }
-                                            }, {
                                                 "id": "2568039",
                                                 "imageId": "PC_Mweb/Salad.png",
                                                 "action": {
@@ -13649,6 +13605,28 @@
                                                     "altTextCta": "open"
                                                 },
                                                 "entityId": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
+                                                "frequencyCapping": {},
+                                                "externalMarketing": {},
+                                                "overlayIcon": {},
+                                                "footerOverlay": {
+                                                    "title": {},
+                                                    "subtitle": {},
+                                                    "cta": {}
+                                                }
+                                            }, {
+                                                "id": "2568341",
+                                                "imageId": "PC_Mweb/Pastry.png",
+                                                "action": {
+                                                    "link": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
+                                                    "text": "Pastry",
+                                                    "type": "DEEPLINK"
+                                                },
+                                                "entityType": "BANNER",
+                                                "accessibility": {
+                                                    "altText": "restaurant curated for Pastry",
+                                                    "altTextCta": "open"
+                                                },
+                                                "entityId": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13680,19 +13658,41 @@
                                                     "cta": {}
                                                 }
                                             }, {
-                                                "id": "2568341",
-                                                "imageId": "PC_Mweb/Pastry.png",
+                                                "id": "2568314",
+                                                "imageId": "PC_Mweb/Idli.png",
                                                 "action": {
-                                                    "link": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
-                                                    "text": "Pastry",
+                                                    "link": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
+                                                    "text": "Idli",
                                                     "type": "DEEPLINK"
                                                 },
                                                 "entityType": "BANNER",
                                                 "accessibility": {
-                                                    "altText": "restaurant curated for Pastry",
+                                                    "altText": "restaurants curated for idly",
                                                     "altTextCta": "open"
                                                 },
-                                                "entityId": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
+                                                "entityId": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
+                                                "frequencyCapping": {},
+                                                "externalMarketing": {},
+                                                "overlayIcon": {},
+                                                "footerOverlay": {
+                                                    "title": {},
+                                                    "subtitle": {},
+                                                    "cta": {}
+                                                }
+                                            }, {
+                                                "id": "2568580",
+                                                "imageId": "PC_Mweb/Coffee.png",
+                                                "action": {
+                                                    "link": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
+                                                    "text": "Coffee",
+                                                    "type": "DEEPLINK"
+                                                },
+                                                "entityType": "BANNER",
+                                                "accessibility": {
+                                                    "altText": "restaurants curated for coffee",
+                                                    "altTextCta": "open"
+                                                },
+                                                "entityId": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
                                                 "frequencyCapping": {},
                                                 "externalMarketing": {},
                                                 "overlayIcon": {},
@@ -13762,28 +13762,6 @@
                                                         "cta": {}
                                                     }
                                                 }, {
-                                                    "id": "2568574",
-                                                    "imageId": "PC_Mweb/Burger.png",
-                                                    "action": {
-                                                        "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                                        "text": "Burgers",
-                                                        "type": "DEEPLINK"
-                                                    },
-                                                    "entityType": "BANNER",
-                                                    "accessibility": {
-                                                        "altText": "restaurants curated for burger",
-                                                        "altTextCta": "open"
-                                                    },
-                                                    "entityId": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
-                                                    "frequencyCapping": {},
-                                                    "externalMarketing": {},
-                                                    "overlayIcon": {},
-                                                    "footerOverlay": {
-                                                        "title": {},
-                                                        "subtitle": {},
-                                                        "cta": {}
-                                                    }
-                                                }, {
                                                     "id": "2568016",
                                                     "imageId": "PC_Mweb/Pizza.png",
                                                     "action": {
@@ -13819,6 +13797,28 @@
                                                         "altTextCta": "open"
                                                     },
                                                     "entityId": "https://www.swiggy.com/collections/83661?collection_id=83661&search_context=desserts&tags=layout_CCS_Desserts&type=rcv2",
+                                                    "frequencyCapping": {},
+                                                    "externalMarketing": {},
+                                                    "overlayIcon": {},
+                                                    "footerOverlay": {
+                                                        "title": {},
+                                                        "subtitle": {},
+                                                        "cta": {}
+                                                    }
+                                                }, {
+                                                    "id": "2568574",
+                                                    "imageId": "PC_Mweb/Burger.png",
+                                                    "action": {
+                                                        "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+                                                        "text": "Burgers",
+                                                        "type": "DEEPLINK"
+                                                    },
+                                                    "entityType": "BANNER",
+                                                    "accessibility": {
+                                                        "altText": "restaurants curated for burger",
+                                                        "altTextCta": "open"
+                                                    },
+                                                    "entityId": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -13872,28 +13872,6 @@
                                                         "cta": {}
                                                     }
                                                 }, {
-                                                    "id": "2568339",
-                                                    "imageId": "PC_Mweb/Biryani.png",
-                                                    "action": {
-                                                        "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                                        "text": "Biryani",
-                                                        "type": "DEEPLINK"
-                                                    },
-                                                    "entityType": "BANNER",
-                                                    "accessibility": {
-                                                        "altText": "restaurants curated for biryani",
-                                                        "altTextCta": "open"
-                                                    },
-                                                    "entityId": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
-                                                    "frequencyCapping": {},
-                                                    "externalMarketing": {},
-                                                    "overlayIcon": {},
-                                                    "footerOverlay": {
-                                                        "title": {},
-                                                        "subtitle": {},
-                                                        "cta": {}
-                                                    }
-                                                }, {
                                                     "id": "2568009",
                                                     "imageId": "PC_Mweb/Chinese.png",
                                                     "action": {
@@ -13907,28 +13885,6 @@
                                                         "altTextCta": "open"
                                                     },
                                                     "entityId": "https://www.swiggy.com/collections/83636?collection_id=83636&tags=layout_CCS_Chinese&type=rcv2",
-                                                    "frequencyCapping": {},
-                                                    "externalMarketing": {},
-                                                    "overlayIcon": {},
-                                                    "footerOverlay": {
-                                                        "title": {},
-                                                        "subtitle": {},
-                                                        "cta": {}
-                                                    }
-                                                }, {
-                                                    "id": "2568034",
-                                                    "imageId": "PC_Mweb/Rolls.png",
-                                                    "action": {
-                                                        "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
-                                                        "text": "Rolls",
-                                                        "type": "DEEPLINK"
-                                                    },
-                                                    "entityType": "BANNER",
-                                                    "accessibility": {
-                                                        "altText": "restaurants curated for roll",
-                                                        "altTextCta": "open"
-                                                    },
-                                                    "entityId": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -13960,6 +13916,50 @@
                                                         "cta": {}
                                                     }
                                                 }, {
+                                                    "id": "2568339",
+                                                    "imageId": "PC_Mweb/Biryani.png",
+                                                    "action": {
+                                                        "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                                        "text": "Biryani",
+                                                        "type": "DEEPLINK"
+                                                    },
+                                                    "entityType": "BANNER",
+                                                    "accessibility": {
+                                                        "altText": "restaurants curated for biryani",
+                                                        "altTextCta": "open"
+                                                    },
+                                                    "entityId": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                                                    "frequencyCapping": {},
+                                                    "externalMarketing": {},
+                                                    "overlayIcon": {},
+                                                    "footerOverlay": {
+                                                        "title": {},
+                                                        "subtitle": {},
+                                                        "cta": {}
+                                                    }
+                                                }, {
+                                                    "id": "2568034",
+                                                    "imageId": "PC_Mweb/Rolls.png",
+                                                    "action": {
+                                                        "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                                                        "text": "Rolls",
+                                                        "type": "DEEPLINK"
+                                                    },
+                                                    "entityType": "BANNER",
+                                                    "accessibility": {
+                                                        "altText": "restaurants curated for roll",
+                                                        "altTextCta": "open"
+                                                    },
+                                                    "entityId": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                                                    "frequencyCapping": {},
+                                                    "externalMarketing": {},
+                                                    "overlayIcon": {},
+                                                    "footerOverlay": {
+                                                        "title": {},
+                                                        "subtitle": {},
+                                                        "cta": {}
+                                                    }
+                                                }, {
                                                     "id": "2568346",
                                                     "imageId": "PC_Mweb/Noodles.png",
                                                     "action": {
@@ -13973,28 +13973,6 @@
                                                         "altTextCta": "open"
                                                     },
                                                     "entityId": "https://www.swiggy.com/collections/80463?collection_id=80463&type=rcv2&tags=layout_ux4",
-                                                    "frequencyCapping": {},
-                                                    "externalMarketing": {},
-                                                    "overlayIcon": {},
-                                                    "footerOverlay": {
-                                                        "title": {},
-                                                        "subtitle": {},
-                                                        "cta": {}
-                                                    }
-                                                }, {
-                                                    "id": "2568041",
-                                                    "imageId": "PC_Mweb/Pasta.png",
-                                                    "action": {
-                                                        "link": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
-                                                        "text": "Pasta",
-                                                        "type": "DEEPLINK"
-                                                    },
-                                                    "entityType": "BANNER",
-                                                    "accessibility": {
-                                                        "altText": "restaurant curated for pasta",
-                                                        "altTextCta": "open"
-                                                    },
-                                                    "entityId": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -14026,19 +14004,19 @@
                                                         "cta": {}
                                                     }
                                                 }, {
-                                                    "id": "2568580",
-                                                    "imageId": "PC_Mweb/Coffee.png",
+                                                    "id": "2568041",
+                                                    "imageId": "PC_Mweb/Pasta.png",
                                                     "action": {
-                                                        "link": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
-                                                        "text": "Coffee",
+                                                        "link": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
+                                                        "text": "Pasta",
                                                         "type": "DEEPLINK"
                                                     },
                                                     "entityType": "BANNER",
                                                     "accessibility": {
-                                                        "altText": "restaurants curated for coffee",
+                                                        "altText": "restaurant curated for pasta",
                                                         "altTextCta": "open"
                                                     },
-                                                    "entityId": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
+                                                    "entityId": "https://www.swiggy.com/collections/80479?collection_id=80479&tags=layout_CCS_Pasta&type=rcv2",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -14070,28 +14048,6 @@
                                                         "cta": {}
                                                     }
                                                 }, {
-                                                    "id": "2568314",
-                                                    "imageId": "PC_Mweb/Idli.png",
-                                                    "action": {
-                                                        "link": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
-                                                        "text": "Idli",
-                                                        "type": "DEEPLINK"
-                                                    },
-                                                    "entityType": "BANNER",
-                                                    "accessibility": {
-                                                        "altText": "restaurants curated for idly",
-                                                        "altTextCta": "open"
-                                                    },
-                                                    "entityId": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
-                                                    "frequencyCapping": {},
-                                                    "externalMarketing": {},
-                                                    "overlayIcon": {},
-                                                    "footerOverlay": {
-                                                        "title": {},
-                                                        "subtitle": {},
-                                                        "cta": {}
-                                                    }
-                                                }, {
                                                     "id": "2568039",
                                                     "imageId": "PC_Mweb/Salad.png",
                                                     "action": {
@@ -14105,6 +14061,28 @@
                                                         "altTextCta": "open"
                                                     },
                                                     "entityId": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
+                                                    "frequencyCapping": {},
+                                                    "externalMarketing": {},
+                                                    "overlayIcon": {},
+                                                    "footerOverlay": {
+                                                        "title": {},
+                                                        "subtitle": {},
+                                                        "cta": {}
+                                                    }
+                                                }, {
+                                                    "id": "2568341",
+                                                    "imageId": "PC_Mweb/Pastry.png",
+                                                    "action": {
+                                                        "link": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
+                                                        "text": "Pastry",
+                                                        "type": "DEEPLINK"
+                                                    },
+                                                    "entityType": "BANNER",
+                                                    "accessibility": {
+                                                        "altText": "restaurant curated for Pastry",
+                                                        "altTextCta": "open"
+                                                    },
+                                                    "entityId": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -14136,19 +14114,41 @@
                                                         "cta": {}
                                                     }
                                                 }, {
-                                                    "id": "2568341",
-                                                    "imageId": "PC_Mweb/Pastry.png",
+                                                    "id": "2568314",
+                                                    "imageId": "PC_Mweb/Idli.png",
                                                     "action": {
-                                                        "link": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
-                                                        "text": "Pastry",
+                                                        "link": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
+                                                        "text": "Idli",
                                                         "type": "DEEPLINK"
                                                     },
                                                     "entityType": "BANNER",
                                                     "accessibility": {
-                                                        "altText": "restaurant curated for Pastry",
+                                                        "altText": "restaurants curated for idly",
                                                         "altTextCta": "open"
                                                     },
-                                                    "entityId": "https://www.swiggy.com/collections/80355?collection_id=80355&type=rcv2&tags=layout_ux4",
+                                                    "entityId": "https://www.swiggy.com/collections/80440?collection_id=80440&search_context=idli&tags=layout_CCS_Idli&type=rcv2",
+                                                    "frequencyCapping": {},
+                                                    "externalMarketing": {},
+                                                    "overlayIcon": {},
+                                                    "footerOverlay": {
+                                                        "title": {},
+                                                        "subtitle": {},
+                                                        "cta": {}
+                                                    }
+                                                }, {
+                                                    "id": "2568580",
+                                                    "imageId": "PC_Mweb/Coffee.png",
+                                                    "action": {
+                                                        "link": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
+                                                        "text": "Coffee",
+                                                        "type": "DEEPLINK"
+                                                    },
+                                                    "entityType": "BANNER",
+                                                    "accessibility": {
+                                                        "altText": "restaurants curated for coffee",
+                                                        "altTextCta": "open"
+                                                    },
+                                                    "entityId": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
                                                     "frequencyCapping": {},
                                                     "externalMarketing": {},
                                                     "overlayIcon": {},
@@ -15426,7 +15426,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=e7e806e0-06a1-4b0d-8876-e53bde3bfc4e~~adtrid=63f4cd4b-9577-4e83-b8eb-38624c1457ac~~adgrpid=e7e806e0-06a1-4b0d-8876-e53bde3bfc4e#ag1~~cndid=510639~~bp=oGxEuKkO3rmVXpnqhJgEC30Kh4KxjjntyuUYMCfX+XFdCZlG1X2P3VCZddC/zko1kUGybs2u2EYmAqoebVQrCpZc76r5~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822320~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=3482.489~~collid=116084",
+                                                            "adTrackingId": "cid=e7e806e0-06a1-4b0d-8876-e53bde3bfc4e~~adtrid=be42026d-b271-4d0b-867b-c6bb47b533b7~~adgrpid=e7e806e0-06a1-4b0d-8876-e53bde3bfc4e#ag1~~cndid=510639~~bp=FRDYbmbWAQkb+w1xm6jFZXrkg/FshrBkUiLCHeT4tTNtvUZxs8z0W19io4Oebi2RS2Egw76KH+hzF+JByvbJ23W9LEk7~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011496~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=3482.489~~collid=116084",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -16076,7 +16076,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=633be77b-4365-40e3-858c-752c2efa40b7~~adtrid=dd039047-8b8a-4b3b-9594-3c667ebd2554~~adgrpid=633be77b-4365-40e3-858c-752c2efa40b7#ag1~~cndid=1285828~~bp=n8aW40sO5ui+8FcEqDKEyZTjoKAOOxcqOmaRBR2PyQsms+28DM2JeFJPdGn6lDTwAP3GbXpCH89w0vTO6VwxZO3aoS1I~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822320~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4599.9204~~collid=116084",
+                                                            "adTrackingId": "cid=633be77b-4365-40e3-858c-752c2efa40b7~~adtrid=f0d24fe0-5737-488e-ae5a-4da93028655d~~adgrpid=633be77b-4365-40e3-858c-752c2efa40b7#ag1~~cndid=1285828~~bp=/9Am6kIMLdWkPmPYEV3nPP4C5BgRfWJoJ2HZeXU2zMgcQwohziN+ojP67DFHH/gweQLhcTezNDopCtO2I3W4tF+kTBcI~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011496~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4599.9204~~collid=116084",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -16661,7 +16661,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=21e2e95f-cb59-4e28-82eb-fccd73c42bed~~adtrid=ac15a54e-a0e2-4066-8161-737a5f60f45a~~adgrpid=21e2e95f-cb59-4e28-82eb-fccd73c42bed#ag1~~cndid=542147~~bp=zukFieShE58UyUD03Uz8xfDvEe3mWUNjKLBoXy+lgg2qVDKO5wLfH3J5txymTQW3hlAsgWar0vCvFtJ1CtZkD4FvpwBw~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822320~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4708.65~~collid=116084",
+                                                            "adTrackingId": "cid=21e2e95f-cb59-4e28-82eb-fccd73c42bed~~adtrid=99beda35-0da6-4f4d-946e-bc03d087fd98~~adgrpid=21e2e95f-cb59-4e28-82eb-fccd73c42bed#ag1~~cndid=542147~~bp=2YPMqdNv91z+mFin4rlgs70daAm8JFyaYSkLPSbiH38zn/NNJf2yNCafqfXpB+X9Ofi4g+HLyWknl4mhqkBBdUVXYKac~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011496~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4708.65~~collid=116084",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -16692,6 +16692,213 @@
                                                         },
                                                         "cta": {
                                                             "link": "https://www.swiggy.com/restaurants/542147/dineout",
+                                                            "text": "DINERSONE_REST_DETAIL",
+                                                            "type": "DEEPLINK"
+                                                        }
+                                                    }, {
+                                                        "info": {
+                                                            "id": "855371",
+                                                            "name": "Ob Pizza Burger Point",
+                                                            "rating": {
+                                                                "value": "4.5",
+                                                                "count": 109,
+                                                                "countDescription": "109 Google ratings"
+                                                            },
+                                                            "costForTwo": "₹400 for two",
+                                                            "cuisines": ["Italian", "Fast Food"],
+                                                            "locality": "Rohini",
+                                                            "mediaFiles": [{
+                                                                "type": "IMAGE",
+                                                                "id": "2024-03-14T10:32:04.804",
+                                                                "name": "4 PNG",
+                                                                "url": "v1710412328/63799d6ea1fb7946b6c4992318c7c89d.png"
+                                                            }],
+                                                            "highlights": ["Reservation available", "Parking available", "SwiggyPay accepted", "Pure veg"],
+                                                            "locationInfo": {
+                                                                "distanceString": "1.7 km",
+                                                                "city": {
+                                                                    "name": "Delhi"
+                                                                },
+                                                                "formattedAddress": "Rohini, Delhi"
+                                                            },
+                                                            "offerInfoV2": {
+                                                                "vendorOffer": {
+                                                                    "header": "Flat 10% off",
+                                                                    "offerLogo": {}
+                                                                },
+                                                                "customerOffer": {
+                                                                    "header": "+ ₹ 50 off with PAYTMUPI + Up to 10% bank offers",
+                                                                    "offerLogo": {}
+                                                                }
+                                                            },
+                                                            "vendorOffer": {
+                                                                "info": {
+                                                                    "header": "TODAY’S \nDISCOUNT",
+                                                                    "type": "FLAT",
+                                                                    "title": "10% Off",
+                                                                    "subtitle": "on total bill",
+                                                                    "description": "Flat 10% off",
+                                                                    "isOfferApplicableNow": true,
+                                                                    "tnc": ["Discount on this restaurant is applicable throughout the day for you.", "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.", "You get a flat discount on your bill amount with no upper limit.", "This offer cannot be clubbed with an in-house offer or offers from other platforms", "The offer's availability on National/Public Holidays is as per the restaurant's discretion", "The restaurant may levy Service charge/Entry fees as per its discretion", "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.", "Any items ordered that are not included in the offer will be billed separately.", "Menu prices and items may change without prior notice.", "Weekend and weekdays offer might differ as per restaurant’s discretion."],
+                                                                    "offerType": "OFFER_TYPE_V2_REGULAR",
+                                                                    "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+                                                                    "offersLogoV2": [{
+                                                                        "logo": "dineout/rx-card/OFFER.png",
+                                                                        "type": "LOGO_TYPE_RX_TILE"
+                                                                    }, {
+                                                                        "logo": "dineout/search/as/Offers.png",
+                                                                        "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+                                                                    }, {
+                                                                        "type": "LOGO_TYPE_PAY_BILL"
+                                                                    }],
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 10
+                                                                    }
+                                                                },
+                                                                "infos": [{
+                                                                    "header": "Get extra ₹50 off using PAYTMUPI",
+                                                                    "description": " ₹ 50 off with PAYTMUPI + Up to 10% bank offers",
+                                                                    "coupon": {
+                                                                        "code": "PAYTMUPI"
+                                                                    },
+                                                                    "otherLogoContext": {
+                                                                        "logo": "OFFER_LOGO"
+                                                                    },
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_FLAT",
+                                                                        "discountValue": 50
+                                                                    }
+                                                                }],
+                                                                "offerCount": 1,
+                                                                "vendorOfferInfos": [{
+                                                                    "header": "TODAY’S \nDISCOUNT",
+                                                                    "type": "FLAT",
+                                                                    "title": "10% Off",
+                                                                    "subtitle": "on total bill",
+                                                                    "description": "Flat 10% off",
+                                                                    "isOfferApplicableNow": true,
+                                                                    "tnc": ["Discount on this restaurant is applicable throughout the day for you.", "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.", "You get a flat discount on your bill amount with no upper limit.", "This offer cannot be clubbed with an in-house offer or offers from other platforms", "The offer's availability on National/Public Holidays is as per the restaurant's discretion", "The restaurant may levy Service charge/Entry fees as per its discretion", "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.", "Any items ordered that are not included in the offer will be billed separately.", "Menu prices and items may change without prior notice.", "Weekend and weekdays offer might differ as per restaurant’s discretion."],
+                                                                    "offerType": "OFFER_TYPE_V2_REGULAR",
+                                                                    "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
+                                                                    "offersLogoV2": [{
+                                                                        "logo": "dineout/rx-card/OFFER.png",
+                                                                        "type": "LOGO_TYPE_RX_TILE"
+                                                                    }, {
+                                                                        "logo": "dineout/search/as/Offers.png",
+                                                                        "type": "LOGO_TYPE_SEARCH_SUGGESTION"
+                                                                    }, {
+                                                                        "type": "LOGO_TYPE_PAY_BILL"
+                                                                    }],
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 10
+                                                                    }
+                                                                }]
+                                                            },
+                                                            "customerOffer": {
+                                                                "info": {
+                                                                    "description": "+ Up to 10% bank offers",
+                                                                    "otherLogoContext": {
+                                                                        "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
+                                                                    },
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 15
+                                                                    }
+                                                                },
+                                                                "loyaltyInfo": {
+                                                                    "cta": {},
+                                                                    "offerDetail": {
+                                                                        "type": "FLAT",
+                                                                        "title": "₹150 Off",
+                                                                        "subtitle": "above ₹1500",
+                                                                        "description": " ₹150 off",
+                                                                        "logoContext": {
+                                                                            "text": "with",
+                                                                            "logo": "ONE"
+                                                                        },
+                                                                        "coupon": {
+                                                                            "availableCouponCount": 2
+                                                                        },
+                                                                        "otherLogoContext": {
+                                                                            "logo": "OFFER_LOGO"
+                                                                        },
+                                                                        "discountInfo": {
+                                                                            "discountType": "DISCOUNT_TYPE_FLAT",
+                                                                            "discountValue": 150
+                                                                        }
+                                                                    },
+                                                                    "oneBenefit": {
+                                                                        "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
+                                                                    }
+                                                                },
+                                                                "otherOffersInfo": [{
+                                                                    "header": "ADDITIONAL OFFERS",
+                                                                    "type": "CASHBACK",
+                                                                    "title": "10%*",
+                                                                    "logoContext": {},
+                                                                    "tnc": ["Valid only on Swiggy HDFC Bank Credit Card or Swiggy Blck HDFC Bank Credit Card", "Monthly cashback limit of ₹1500 on Swiggy spends", "Cashback will be processed in the next statement cycle", "Other T&Cs may apply"],
+                                                                    "coupon": {},
+                                                                    "adjoiningSubtext": "Above ₹249",
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 10
+                                                                    }
+                                                                }, {
+                                                                    "header": "ADDITIONAL OFFERS",
+                                                                    "type": "CASHBACK",
+                                                                    "title": "5%*",
+                                                                    "logoContext": {},
+                                                                    "tnc": ["Valid only on Swiggy Ornge HDFC Bank Credit Card", "Applicable on a minimum net transaction value of ₹249", "Monthly cashback limit of ₹1500 on Swiggy spends", "Cashback will be processed in the next statement cycle", "Other T&Cs may apply"],
+                                                                    "coupon": {},
+                                                                    "adjoiningSubtext": "Above ₹249",
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 5
+                                                                    }
+                                                                }],
+                                                                "infos": [{
+                                                                    "description": "Up to 10% off with bank offers",
+                                                                    "discountInfo": {
+                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
+                                                                        "discountValue": 15
+                                                                    }
+                                                                }],
+                                                                "offerCount": 1
+                                                            },
+                                                            "isPaymentAccepted": true,
+                                                            "restaurantTags": ["ABCD"],
+                                                            "offerInfoV3": {
+                                                                "offerLogo": {
+                                                                    "logo": "dineout/rx-card/OFFER.png"
+                                                                },
+                                                                "vendorOffer": {
+                                                                    "title": "Flat 10% off",
+                                                                    "subtitle": "on walk-in",
+                                                                    "subtext": "+ 1 more",
+                                                                    "style": {
+                                                                        "textColour": "text_color_highest_emphasis_inverse",
+                                                                        "bgColour": "positive"
+                                                                    },
+                                                                    "subtextStyle": {}
+                                                                },
+                                                                "couponOffer": {
+                                                                    "title": "Get extra ₹50 off using PAYTMUPI",
+                                                                    "style": {
+                                                                        "textColour": "primary_accent"
+                                                                    },
+                                                                    "subtextStyle": {}
+                                                                }
+                                                            },
+                                                            "vegClassifier": "VEG_CLASSIFIER_VEG",
+                                                            "mediaStyle": {
+                                                                "aspectRatio": 1.7778
+                                                            },
+                                                            "parentId": "150845"
+                                                        },
+                                                        "cta": {
+                                                            "link": "https://www.swiggy.com/restaurants/855371/dineout",
                                                             "text": "DINERSONE_REST_DETAIL",
                                                             "type": "DEEPLINK"
                                                         }
@@ -16932,213 +17139,6 @@
                                                         }
                                                     }, {
                                                         "info": {
-                                                            "id": "855371",
-                                                            "name": "Ob Pizza Burger Point",
-                                                            "rating": {
-                                                                "value": "4.5",
-                                                                "count": 109,
-                                                                "countDescription": "109 Google ratings"
-                                                            },
-                                                            "costForTwo": "₹400 for two",
-                                                            "cuisines": ["Italian", "Fast Food"],
-                                                            "locality": "Rohini",
-                                                            "mediaFiles": [{
-                                                                "type": "IMAGE",
-                                                                "id": "2024-03-14T10:32:04.804",
-                                                                "name": "4 PNG",
-                                                                "url": "v1710412328/63799d6ea1fb7946b6c4992318c7c89d.png"
-                                                            }],
-                                                            "highlights": ["Reservation available", "Parking available", "SwiggyPay accepted", "Pure veg"],
-                                                            "locationInfo": {
-                                                                "distanceString": "1.7 km",
-                                                                "city": {
-                                                                    "name": "Delhi"
-                                                                },
-                                                                "formattedAddress": "Rohini, Delhi"
-                                                            },
-                                                            "offerInfoV2": {
-                                                                "vendorOffer": {
-                                                                    "header": "Flat 10% off",
-                                                                    "offerLogo": {}
-                                                                },
-                                                                "customerOffer": {
-                                                                    "header": "+ ₹ 50 off with PAYTMUPI + Up to 10% bank offers",
-                                                                    "offerLogo": {}
-                                                                }
-                                                            },
-                                                            "vendorOffer": {
-                                                                "info": {
-                                                                    "header": "TODAY’S \nDISCOUNT",
-                                                                    "type": "FLAT",
-                                                                    "title": "10% Off",
-                                                                    "subtitle": "on total bill",
-                                                                    "description": "Flat 10% off",
-                                                                    "isOfferApplicableNow": true,
-                                                                    "tnc": ["Discount on this restaurant is applicable throughout the day for you.", "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.", "You get a flat discount on your bill amount with no upper limit.", "This offer cannot be clubbed with an in-house offer or offers from other platforms", "The offer's availability on National/Public Holidays is as per the restaurant's discretion", "The restaurant may levy Service charge/Entry fees as per its discretion", "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.", "Any items ordered that are not included in the offer will be billed separately.", "Menu prices and items may change without prior notice.", "Weekend and weekdays offer might differ as per restaurant’s discretion."],
-                                                                    "offerType": "OFFER_TYPE_V2_REGULAR",
-                                                                    "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
-                                                                    "offersLogoV2": [{
-                                                                        "logo": "dineout/rx-card/OFFER.png",
-                                                                        "type": "LOGO_TYPE_RX_TILE"
-                                                                    }, {
-                                                                        "logo": "dineout/search/as/Offers.png",
-                                                                        "type": "LOGO_TYPE_SEARCH_SUGGESTION"
-                                                                    }, {
-                                                                        "type": "LOGO_TYPE_PAY_BILL"
-                                                                    }],
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 10
-                                                                    }
-                                                                },
-                                                                "infos": [{
-                                                                    "header": "Get extra ₹50 off using PAYTMUPI",
-                                                                    "description": " ₹ 50 off with PAYTMUPI + Up to 10% bank offers",
-                                                                    "coupon": {
-                                                                        "code": "PAYTMUPI"
-                                                                    },
-                                                                    "otherLogoContext": {
-                                                                        "logo": "OFFER_LOGO"
-                                                                    },
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_FLAT",
-                                                                        "discountValue": 50
-                                                                    }
-                                                                }],
-                                                                "offerCount": 1,
-                                                                "vendorOfferInfos": [{
-                                                                    "header": "TODAY’S \nDISCOUNT",
-                                                                    "type": "FLAT",
-                                                                    "title": "10% Off",
-                                                                    "subtitle": "on total bill",
-                                                                    "description": "Flat 10% off",
-                                                                    "isOfferApplicableNow": true,
-                                                                    "tnc": ["Discount on this restaurant is applicable throughout the day for you.", "You can claim this discount on any bill amount. You can pay up to Rs. 3,00,000 per transaction via Swiggy Dineout at a restaurant.", "You get a flat discount on your bill amount with no upper limit.", "This offer cannot be clubbed with an in-house offer or offers from other platforms", "The offer's availability on National/Public Holidays is as per the restaurant's discretion", "The restaurant may levy Service charge/Entry fees as per its discretion", "The discount may not be applicable on Combos, Meal, Beverages, MRP Products, Beer Buckets, Bottled Drinks, Hookah/Seesha, Discounted platters/Thalis, Buffets, as per Catch items and special menus' as per the restaurant's discretion.", "Any items ordered that are not included in the offer will be billed separately.", "Menu prices and items may change without prior notice.", "Weekend and weekdays offer might differ as per restaurant’s discretion."],
-                                                                    "offerType": "OFFER_TYPE_V2_REGULAR",
-                                                                    "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
-                                                                    "offersLogoV2": [{
-                                                                        "logo": "dineout/rx-card/OFFER.png",
-                                                                        "type": "LOGO_TYPE_RX_TILE"
-                                                                    }, {
-                                                                        "logo": "dineout/search/as/Offers.png",
-                                                                        "type": "LOGO_TYPE_SEARCH_SUGGESTION"
-                                                                    }, {
-                                                                        "type": "LOGO_TYPE_PAY_BILL"
-                                                                    }],
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 10
-                                                                    }
-                                                                }]
-                                                            },
-                                                            "customerOffer": {
-                                                                "info": {
-                                                                    "description": "+ Up to 10% bank offers",
-                                                                    "otherLogoContext": {
-                                                                        "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1679057464/portal/m/dineout/offer_icon_1.png"
-                                                                    },
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 15
-                                                                    }
-                                                                },
-                                                                "loyaltyInfo": {
-                                                                    "cta": {},
-                                                                    "offerDetail": {
-                                                                        "type": "FLAT",
-                                                                        "title": "₹150 Off",
-                                                                        "subtitle": "above ₹1500",
-                                                                        "description": " ₹150 off",
-                                                                        "logoContext": {
-                                                                            "text": "with",
-                                                                            "logo": "ONE"
-                                                                        },
-                                                                        "coupon": {
-                                                                            "availableCouponCount": 2
-                                                                        },
-                                                                        "otherLogoContext": {
-                                                                            "logo": "OFFER_LOGO"
-                                                                        },
-                                                                        "discountInfo": {
-                                                                            "discountType": "DISCOUNT_TYPE_FLAT",
-                                                                            "discountValue": 150
-                                                                        }
-                                                                    },
-                                                                    "oneBenefit": {
-                                                                        "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/v1669906275/dineout/one_benefits.png"
-                                                                    }
-                                                                },
-                                                                "otherOffersInfo": [{
-                                                                    "header": "ADDITIONAL OFFERS",
-                                                                    "type": "CASHBACK",
-                                                                    "title": "10%*",
-                                                                    "logoContext": {},
-                                                                    "tnc": ["Valid only on Swiggy HDFC Bank Credit Card or Swiggy Blck HDFC Bank Credit Card", "Monthly cashback limit of ₹1500 on Swiggy spends", "Cashback will be processed in the next statement cycle", "Other T&Cs may apply"],
-                                                                    "coupon": {},
-                                                                    "adjoiningSubtext": "Above ₹249",
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 10
-                                                                    }
-                                                                }, {
-                                                                    "header": "ADDITIONAL OFFERS",
-                                                                    "type": "CASHBACK",
-                                                                    "title": "5%*",
-                                                                    "logoContext": {},
-                                                                    "tnc": ["Valid only on Swiggy Ornge HDFC Bank Credit Card", "Applicable on a minimum net transaction value of ₹249", "Monthly cashback limit of ₹1500 on Swiggy spends", "Cashback will be processed in the next statement cycle", "Other T&Cs may apply"],
-                                                                    "coupon": {},
-                                                                    "adjoiningSubtext": "Above ₹249",
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 5
-                                                                    }
-                                                                }],
-                                                                "infos": [{
-                                                                    "description": "Up to 10% off with bank offers",
-                                                                    "discountInfo": {
-                                                                        "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 15
-                                                                    }
-                                                                }],
-                                                                "offerCount": 1
-                                                            },
-                                                            "isPaymentAccepted": true,
-                                                            "restaurantTags": ["ABCD"],
-                                                            "offerInfoV3": {
-                                                                "offerLogo": {
-                                                                    "logo": "dineout/rx-card/OFFER.png"
-                                                                },
-                                                                "vendorOffer": {
-                                                                    "title": "Flat 10% off",
-                                                                    "subtitle": "on walk-in",
-                                                                    "subtext": "+ 1 more",
-                                                                    "style": {
-                                                                        "textColour": "text_color_highest_emphasis_inverse",
-                                                                        "bgColour": "positive"
-                                                                    },
-                                                                    "subtextStyle": {}
-                                                                },
-                                                                "couponOffer": {
-                                                                    "title": "Get extra ₹50 off using PAYTMUPI",
-                                                                    "style": {
-                                                                        "textColour": "primary_accent"
-                                                                    },
-                                                                    "subtextStyle": {}
-                                                                }
-                                                            },
-                                                            "vegClassifier": "VEG_CLASSIFIER_VEG",
-                                                            "mediaStyle": {
-                                                                "aspectRatio": 1.7778
-                                                            },
-                                                            "parentId": "150845"
-                                                        },
-                                                        "cta": {
-                                                            "link": "https://www.swiggy.com/restaurants/855371/dineout",
-                                                            "text": "DINERSONE_REST_DETAIL",
-                                                            "type": "DEEPLINK"
-                                                        }
-                                                    }, {
-                                                        "info": {
                                                             "id": "851768",
                                                             "name": "The Waffle Co.",
                                                             "rating": {
@@ -17342,7 +17342,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=54132b66-499c-41c7-ab2c-d308c93897de~~adtrid=cc4f7f31-5702-42d9-be2b-f54cd2897d53~~adgrpid=54132b66-499c-41c7-ab2c-d308c93897de#ag1~~cndid=851768~~bp=gIERmo/sgEbMzJsfIOGQ/nbMxgEiTOoKWXDb/hpsTRB4oS5YfkaTcBWE7PuCuByBx6PN7sySLNb+FLw52bZ5Nt/K10pq~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822320~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=7038.7925~~collid=116084",
+                                                            "adTrackingId": "cid=54132b66-499c-41c7-ab2c-d308c93897de~~adtrid=de534103-a557-4931-b4d0-f74e735673c3~~adgrpid=54132b66-499c-41c7-ab2c-d308c93897de#ag1~~cndid=851768~~bp=klPa7b9WauuygjzU+ZFPyD7Q5F4M3x4pG9DiwGL9Nxwzwu7cNZpHeRdsQFo40gxRACt507Y07Cv5SIfYRo4N670m4bKW~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011496~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=7038.7925~~collid=116084",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -17607,7 +17607,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=71c60c23-3993-4066-983b-26c017a15621~~adtrid=c19e213d-18c9-4ca1-a75a-f57eb54b0181~~adgrpid=71c60c23-3993-4066-983b-26c017a15621#ag1~~cndid=5681~~bp=WuHxCN9twnhUeQDtqnzcL1Qvg/qbye35OCEFuZ0gdqSMiwnYB2YXK4iCF3ODEm68tVm+9AmCcR1TDJaLjOaOEtFrVO2J~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822190~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=8482.598~~collid=116082",
+                                                            "adTrackingId": "cid=71c60c23-3993-4066-983b-26c017a15621~~adtrid=3c4e0078-5fe0-4f8c-a780-56b40ac4f7e7~~adgrpid=71c60c23-3993-4066-983b-26c017a15621#ag1~~cndid=5681~~bp=FBLCPzj4SUskQuY7HlZKz5m9LfYAppK6SVeVbqMvOy2Tl5YOtGMWlEe8RCEwKVGblQZwgPmU/3ksuUr5qcZNIk/cpmtZ~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011373~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=8482.598~~collid=116082",
                                                             "restaurantTags": ["Chinese Picks"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -18383,7 +18383,7 @@
                                                                         "logo": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/dineout/preOffer.png"
                                                                     },
                                                                     "offers": [{
-                                                                        "header": "Flat 40% off",
+                                                                        "header": "Flat 60% off",
                                                                         "offerLogo": {},
                                                                         "availability": "STACKED_WIDGET_AVAILABILITY_AVAILABLE_TODAY",
                                                                         "dealCategory": "Pre-Book",
@@ -18419,8 +18419,8 @@
                                                                 "otherOffersInfo": [{
                                                                     "header": "TODAY’S \nDISCOUNT",
                                                                     "type": "FLAT",
-                                                                    "title": "40% OFF",
-                                                                    "description": "Flat 40% off",
+                                                                    "title": "60% OFF",
+                                                                    "description": "Flat 60% off",
                                                                     "isOfferApplicableNow": true,
                                                                     "offerType": "OFFER_TYPE_V2_PRE_BOOK",
                                                                     "availability": "OFFER_AVAILABILITY_AVAILABLE_TODAY",
@@ -18440,7 +18440,7 @@
                                                                     }],
                                                                     "discountInfo": {
                                                                         "discountType": "DISCOUNT_TYPE_PERCENTAGE",
-                                                                        "discountValue": 40
+                                                                        "discountValue": 60
                                                                     }
                                                                 }],
                                                                 "infos": [{
@@ -18457,7 +18457,7 @@
                                                                         "discountValue": 50
                                                                     }
                                                                 }],
-                                                                "offerCount": 2,
+                                                                "offerCount": 5,
                                                                 "vendorOfferInfos": [{
                                                                     "header": "TODAY’S \nDISCOUNT",
                                                                     "type": "FLAT",
@@ -18561,9 +18561,9 @@
                                                                     "logo": "dineout/rx-card/OFFER.png"
                                                                 },
                                                                 "vendorOffer": {
-                                                                    "title": "Flat 40% off",
+                                                                    "title": "Flat 60% off",
                                                                     "subtitle": "on pre-booking",
-                                                                    "subtext": "+ 2 more",
+                                                                    "subtext": "+ 5 more",
                                                                     "style": {
                                                                         "textColour": "text_color_highest_emphasis_inverse",
                                                                         "bgColour": "positive"
@@ -19972,7 +19972,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=55c8b3dc-9ee8-487a-a885-381db7fc7862~~adtrid=f23d1c94-d281-4266-8178-916be4e29a6d~~adgrpid=55c8b3dc-9ee8-487a-a885-381db7fc7862#ag1~~cndid=641449~~bp=lvSyH8aC5pXojPbmIZ3SxulF3IS9JY5dvYnJoU0ikx1j7LWbVYqAhTiTETEKXHXD3F02UDmxmhFeS4Bb9tjUQU1f5RbY~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822324~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=7717.387~~collid=116083",
+                                                            "adTrackingId": "cid=55c8b3dc-9ee8-487a-a885-381db7fc7862~~adtrid=87a0f28c-39eb-47cf-b7f0-55737f40bf40~~adgrpid=55c8b3dc-9ee8-487a-a885-381db7fc7862#ag1~~cndid=641449~~bp=boJ+MmCwzWRk6uf00LCILNetSiPCMYWXo4xzMpFSGwUvskQYYlCTyBiUQAmC29qYobX7G+2i5XwTM/QT4LdE8FeokIU+~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011513~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=7717.387~~collid=116083",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -20709,7 +20709,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=abd53edb-f6a4-49f3-bc01-e692ebe3dbea~~adtrid=39b05100-0e77-4f1b-81ea-551e707fa706~~adgrpid=abd53edb-f6a4-49f3-bc01-e692ebe3dbea#ag1~~cndid=1265857~~bp=nEWHa6Q4iTxF2PmHksuF/3kC/6WDDvpNgxNTysyjjTkVhSUv0utW+c+SWk0thI1/S3yAuq/oSknH7vg0YYExfUbiNrmM~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822324~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4970.187~~collid=116083",
+                                                            "adTrackingId": "cid=abd53edb-f6a4-49f3-bc01-e692ebe3dbea~~adtrid=881fdbfe-2f65-44ea-90c4-82679b1acff4~~adgrpid=abd53edb-f6a4-49f3-bc01-e692ebe3dbea#ag1~~cndid=1265857~~bp=w6peygk9w4SgSdna9cuLZ3yUcgzNWzsMKCQtAtwrTbJKDl9kdShQlt/I3TSZ0PnupsLkrWsh091yWt9C7Vw/pgskG9V4~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011513~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4970.187~~collid=116083",
                                                             "restaurantTags": ["ABCD"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -21415,7 +21415,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=837a2a87-ac38-4b95-af83-9ec637ccc103~~adtrid=ab9723b6-a4cb-42b0-af42-9c0b4a80662a~~adgrpid=837a2a87-ac38-4b95-af83-9ec637ccc103#ag1~~cndid=1265860~~bp=+bNx3Zyq+23n9tqgFP28cq6DVZf6lhp+H0rrCBmndr+pDFerIx7cjto4C5w2y+9Mqp1Sd+e5Q6glvpliGg56w5pZ1z/D~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822324~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4970.187~~collid=116083",
+                                                            "adTrackingId": "cid=837a2a87-ac38-4b95-af83-9ec637ccc103~~adtrid=24be3348-76d8-4021-8c37-88bb0139f8b3~~adgrpid=837a2a87-ac38-4b95-af83-9ec637ccc103#ag1~~cndid=1265860~~bp=e5BztJskxf4CEMMrf9hcu3cdUU5XTAAisKs8uk/mznrzQ6bjoqwIJmBAQ2n3xX69f8DAcLSj1Ocr9BLOSr2HfLcLCjTL~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011513~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4970.187~~collid=116083",
                                                             "restaurantTags": ["Biryani Places", "North Indian"],
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
@@ -22107,7 +22107,7 @@
                                                             },
                                                             "isPaymentAccepted": true,
                                                             "promoted": true,
-                                                            "adTrackingId": "cid=e381edca-47f1-45b8-9f90-e80a245e5858~~adtrid=0031e2b6-9c75-48f2-8771-cac1db60d1d6~~adgrpid=e381edca-47f1-45b8-9f90-e80a245e5858#ag1~~cndid=1369230~~bp=F7GKAczNpXODNI7AXAvSXn6YNaatkKm4kaZ3Ailz2uO2T8P30fDW9Xk7uAbW1LPY+ZDj0Ox6RdZyC/8U4oWsD43oJ2J1~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785917822324~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4746.1895~~collid=116083",
+                                                            "adTrackingId": "cid=e381edca-47f1-45b8-9f90-e80a245e5858~~adtrid=cfa1a5c7-aee8-466d-94bb-b23d96442b7f~~adgrpid=e381edca-47f1-45b8-9f90-e80a245e5858#ag1~~cndid=1369230~~bp=455JtBh9rQ7UzeqbAoAqra20AgJHlz+261q0UhbFF2TuRDEob/sp23Ji1CA3+AWi32nmgqV1lbpNuxPXqHxVwLuSdSIF~~mp=SWIGGY_IN~~bl=DINEOUT~~st=~~srvts=1785999011513~~plid=6063bb22-c5fd-4da9-ad5a-97d86b61ddf4~~plpr=DINEOUT_COLLECTION#LISTING~~zoneid=218~~cityid=4~~lmd=4746.1895~~collid=116083",
                                                             "offerInfoV3": {
                                                                 "offerLogo": {
                                                                     "logo": "dineout/rx-card/OFFER.png"
@@ -24266,10 +24266,10 @@
             window.__DEPLOYMENT_TYPE__ = "rolling";
             window.__REGION__ = "in-west";
             var App = {};
-            App.tid = "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODU5MTgzMDIsImlhdCI6MTc4NTkxNDcwMiwic2Vzc2lvbl9kYXRhIjoielIybUhCMVp6NW13S2xrdWJsdmJiL2RyVHZ6ZkNqSzRLZy9aeGROV2FWWElUZ1NscS9tSDdrczc0ZjRZaTJVTWdybjRuYS9ucDNUS2MzZUVkTytKNDRqTU5od0J3VFNjbkIzU2ZVeUV0dE9yMWZDTUFMMmJCdnAzemttRDEzc1BGdkQySFFsZDVteU91a3BMZDMyTjNQc0RoZTFweEtUVitSTWhkSXdRT0I3M0JuaDFVV0lpY3hUbzh3dWNabk1ZRjhvdlRmK1YxUGt0cHpMWVg3YWQ1Zz09Iiwic2lkIjoic3ZvMWU5NThmNDMtYjdjMi00MDFlLWFkMTUtZTBkOWJkYjg5Iiwic3ViIjoiMjcwYTMxYzUtMmJjMi00OGIzLTlmNjYtMzdjODBmYTY5NTExIiwidXNlcl9pZCI6IjAifQ.lcWvSU2k77iF9pq4HnWqKAq3scLh84LhU2CsKJMdaU0";
-            sessionStorage.setItem("tid", "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODU5MTgzMDIsImlhdCI6MTc4NTkxNDcwMiwic2Vzc2lvbl9kYXRhIjoielIybUhCMVp6NW13S2xrdWJsdmJiL2RyVHZ6ZkNqSzRLZy9aeGROV2FWWElUZ1NscS9tSDdrczc0ZjRZaTJVTWdybjRuYS9ucDNUS2MzZUVkTytKNDRqTU5od0J3VFNjbkIzU2ZVeUV0dE9yMWZDTUFMMmJCdnAzemttRDEzc1BGdkQySFFsZDVteU91a3BMZDMyTjNQc0RoZTFweEtUVitSTWhkSXdRT0I3M0JuaDFVV0lpY3hUbzh3dWNabk1ZRjhvdlRmK1YxUGt0cHpMWVg3YWQ1Zz09Iiwic2lkIjoic3ZvMWU5NThmNDMtYjdjMi00MDFlLWFkMTUtZTBkOWJkYjg5Iiwic3ViIjoiMjcwYTMxYzUtMmJjMi00OGIzLTlmNjYtMzdjODBmYTY5NTExIiwidXNlcl9pZCI6IjAifQ.lcWvSU2k77iF9pq4HnWqKAq3scLh84LhU2CsKJMdaU0");
+            App.tid = "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODYwMDE5MDUsImlhdCI6MTc4NTk5ODMwNSwic2Vzc2lvbl9kYXRhIjoiVWNVeDgzQ05FT1JuSTlWTHdSQlpmYi93Zldid3hWdW5jRkdRUHp6UTJOdktUditQN3dwY09QM2crSUNPMlJHaGw3b2Y3a2VIbFJWUktCalBub0twRzJNRXZzZks5RVQ0RnVrMW5YR1gvQnd5K2RGYWxmRkh4OGZiRi9DeTJQY1Z5Ums2Rm1hb2VMU1FSNTk0OXpZYTJIY2lrOHhOVXB3WXRUeUF3Q3FjWW9GVFIvb2FIdzlCekJKbktNMmdhcERVOHY1SkJZQ2szT04wR3l2WGprdGVqdz09Iiwic2lkIjoic3djMjA5YWVlYTctMjEzOC00MDlkLTgwMmQtMzQyYzU5NmZmIiwic3ViIjoiODFmMjJiMzItNDVhZC00YmI0LTliZjQtZThhMDdjODg3YjcwIiwidXNlcl9pZCI6IjAifQ.4kZDi4yeHHV9V_Ih2jWkMmNyJCQlw2wu5L9GyiNH4Wc";
+            sessionStorage.setItem("tid", "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODYwMDE5MDUsImlhdCI6MTc4NTk5ODMwNSwic2Vzc2lvbl9kYXRhIjoiVWNVeDgzQ05FT1JuSTlWTHdSQlpmYi93Zldid3hWdW5jRkdRUHp6UTJOdktUditQN3dwY09QM2crSUNPMlJHaGw3b2Y3a2VIbFJWUktCalBub0twRzJNRXZzZks5RVQ0RnVrMW5YR1gvQnd5K2RGYWxmRkh4OGZiRi9DeTJQY1Z5Ums2Rm1hb2VMU1FSNTk0OXpZYTJIY2lrOHhOVXB3WXRUeUF3Q3FjWW9GVFIvb2FIdzlCekJKbktNMmdhcERVOHY1SkJZQ2szT04wR3l2WGprdGVqdz09Iiwic2lkIjoic3djMjA5YWVlYTctMjEzOC00MDlkLTgwMmQtMzQyYzU5NmZmIiwic3ViIjoiODFmMjJiMzItNDVhZC00YmI0LTliZjQtZThhMDdjODg3YjcwIiwidXNlcl9pZCI6IjAifQ.4kZDi4yeHHV9V_Ih2jWkMmNyJCQlw2wu5L9GyiNH4Wc");
             App.isPhonePeSwitchEnabled = true;
-            App.sid = "svo1e958f43-b7c2-401e-ad15-e0d9bdb89";
+            App.sid = "swc209aeea7-2138-409d-802d-342c596ff";
             App.deviceId = "3d8a7896-ecb3-bc93-f1b0-286b853619cc";
             App.platform = "web";
             App.appVersion = "5.3.33";
