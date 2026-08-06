@@ -5,6 +5,7 @@ import Food from "./Food";
 import Dine from "./Dine";
 import DineData from "../asset/DineData";
 
+
 export default function Middle(){
     return (
 
@@ -52,6 +53,8 @@ export default function Middle(){
 
   )
  }</div>
+
+
 
 </div>
 

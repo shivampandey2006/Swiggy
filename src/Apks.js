@@ -1,15 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'
-import Header from './components/Header';
-import Middle from './components/Middle';
-import Footer from './components/Footer';
 
+ import { BrowserRouter , Routes , Route  } from 'react-router-dom';
+ import Home from './Home';
+import Restaurants from './components/Restaurants';
 function Apks(){
     return (
         <>
-      <Header></Header>
-      <Middle></Middle>
-      <Footer></Footer>
+ <BrowserRouter>
+  <Routes>
+    <Route path="/" element={<Home />} />
+    <Route path="/restaurants" element={<Restaurants />} />
+  </Routes>
+</BrowserRouter>
 
        </>
     )

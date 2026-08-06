@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom"
 export default function Header(){
     return (
         <>
@@ -50,7 +51,7 @@ export default function Header(){
 <div className="bg-orange-600 pb-50 flex gap-12 justify-center flex-row w-full flex-wrap ">
 
 
-
+<Link to="/restaurants">
 <div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
 <div className="text-xl font-bold  ">FOOD DELIVERY</div>
 <div className="text-[14px] font-semibold font-gray-500 ">FROM RESTAURENTS</div>
@@ -60,6 +61,7 @@ export default function Header(){
 <div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzGzQhvMg5jolrMk5gXUdyrt5kfiudcYKhFfU9oNbjYg&s=10 " className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
 </div>
 </div>
+</Link>
 
 
 
