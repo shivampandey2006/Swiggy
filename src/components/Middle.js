@@ -1,7 +1,7 @@
 import FoodData from "../asset/FoodData";
 import InstaMartData from "../asset/InstaMartData";
 import InstaMart from "./InstaMart";
-import Food from "./food";
+import Food from "./Food";
 import Dine from "./Dine";
 import DineData from "../asset/DineData";
 
