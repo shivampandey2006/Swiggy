@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'
-import Header from "./Header";
-import Middle from "./Middle"
-import Footer from './footer';
-
+import Header from './components/Header';
+import Middle from './components/Middle';
+import Footer from './components/Footer';
 
 function Apks(){
     return (

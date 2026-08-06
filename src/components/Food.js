@@ -1,4 +1,4 @@
-import FooData from "../asset/FoodData"
+import FoodData from "../asset/FoodData"
 
 export default  function Food({item}){
    return (
