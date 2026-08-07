@@ -66,7 +66,7 @@ export default function Header(){
 
 
 
-
+<Link to="/Grocery">
 
 <div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
 <div className="text-xl font-bold  ">INSTAMART</div>
@@ -77,11 +77,12 @@ export default function Header(){
 <div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZQC7eiFQLQsJCvSb37rd4PydlEVXms_PgFmJ5qHydg&s=10 " className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
 </div>
 </div>
+</Link>
 
 
 
 
-
+<Link to="/DineOut">
 
 <div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
 <div className="text-xl font-bold  ">DINE OUT </div>
@@ -92,7 +93,7 @@ export default function Header(){
 <div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExLrd97nxCdDSXxB2iOBHMFsNgmdv8uXTflFADK4fJA&s=10" className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
 </div>
 </div>
-
+</Link>
 
 
 

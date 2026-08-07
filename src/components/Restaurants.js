@@ -2,11 +2,15 @@
 import { useState } from "react";
 import RestaurantsData from "../asset/RestaurentsData"
 import Footer from "./Footer";
+import LowHeader from "./LowHeader";
+
+
 
 const Rest =
   RestaurantsData[0].data.cards[2].card.card.gridElements.infoWithStyle.restaurants;
 
 export default  function Restaurants(){
+
 
   const [Cafe , SetCafe] = useState(Rest)
   
@@ -22,9 +26,9 @@ function SortedByCost() {
 
   return (
     <>
-   
-      <div className="" >
-    <div>  <button className="ml-10 mt-20 bg-orange-600 p-2 rounded-2xl text-white text-[20px] cursor-pointer hover:bg-orange-500  " onClick={SortedByCost}>Sort By Price</button></div>  
+   <LowHeader></LowHeader>
+      <div className=" bg-gray-100" >
+    <div>  <button className="ml-10 mt-10 bg-orange-600 p-2 rounded-2xl text-white text-[20px] cursor-pointer hover:bg-orange-500  " onClick={SortedByCost}>Sort By Price</button></div>  
       <div className="ml-[30] mt-[40] mb-[40] text-2xl  font-bold  ">Order From Your Fav One</div>
       <div className="flex gap-10 flex-wrap w-[80%] mx-auto items-start justify-center mb-30 " >
       {
