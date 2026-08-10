@@ -14,7 +14,7 @@ import DineOut from "./components/DineOut";
 import Vege from "./Vege";
 import LoginOptions from "./components/LoginOption";
 import LowHeader from "./components/LowHeader";
-
+import ScrollToTop from "./components/ScrollToTop";
 
 function Apks() {
   return (
