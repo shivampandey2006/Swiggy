@@ -8,7 +8,7 @@ export default function Header(){
     return (
         <>
         
-        <div className="z-5000  bg-orange-600 ">
+        <div className="  bg-orange-600 ">
 
 
 
@@ -21,92 +21,159 @@ export default function Header(){
            </div>
 
 
-           <div className=" flex flex-row gap-5 md:gap-14  flex-wrap md:flex-nowrap  justify-center items-center ">
+           <div className=" flex flex-row gap-5 md:gap-10  flex-wrap md:flex-nowrap  justify-center items-center ">
            
         <div><button className=" text-white text-2x  hover:underline underline-offset-4">Swiggy Corporate</button></div>
          <div> <button className=" text-white  hover:underline underline-offset-4
          ">Partner With US</button></div>
-   <a
-  href="#footer"
-  className="text-white h-10 w-25 border-2 border-gray-200 rounded-2xl flex items-center justify-center"
->
-  Get the App
-</a>
-  <Link to="/login">  <div className="bg-black  text-white rounded-2xl h-10 w-25 mb-2 text-center "><button className="h-10 w-25 " >Sign in</button></div></Link> 
+<a
+href="#footer"
+className="text-white h-10 w-30 padding-4 border-2 border-gray-200 rounded-2xl flex items-center justify-center">
+
+Get the App</a>
+  <Link to="/login">  <div className="text-white h-10  w-25 border-2 border-gray-200 rounded-2xl flex items-center justify-center bg-black"><button className="h-10 w-25 " >Sign in</button></div></Link> 
       </div> 
       
           </div>
       
 
 {/* /////////////////////////////////////////////////////////////////////////// */}
+<div className="relative flex flex-col justify-center items-center bg-orange-600 p-12 pb-30">
 
+  {/* Left Image */}
+  <img
+    src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Veggies_new.png"
+    className="absolute left-0 top-20 h-40 md:h-100 w-auto z-0 pointer-events-none"
+  />
 
-<div className="flex flex-col justify-center align-middle bg-orange-600 p-12 pb-30">
-   <div className=""><img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Veggies_new.png " className=" flex absolute overflow-hidden h-40 md:h-90 w-auto left-0 " /></div>
-   <div  className=""><img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Sushi_replace.png" className="md:h-120 h-50 w-auto flex absolute  right-0"/></div>
-<div className=" z-50 text-3xl font-bold text-white  flex justify-center items-center text-center ">Order food & groceries. Discover best restaurents. Swiggy it! </div>
+  {/* Right Image */}
+  <img
+    src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Sushi_replace.png"
+    className="absolute right-0 top-20 h-50 md:h-150 w-auto z-0 pointer-events-none"
+  />
 
-
-<div className="z-50 flex gap-4 flex-col md:flex-row items-center justify-center align-middle pt-7">
-    <div><button className="bg-white text-black rounded-2xl w-60 h-10">Delhi , India</button></div>
-    <div> <input className="bg-white p-3 text-black rounded-2xl md:w-100  h-10 text-[1rem]" placeholder="Search for restaurents , item or more "/></div>
-</div>
+  {/* Content */}
+  <div className="relative z-10 text-3xl font-bold text-white flex justify-center items-center text-center">
+    Order food & groceries. Discover best restaurants. Swiggy it!
+  </div>
 
 </div>
 
 
 
 {/* /////////////////////////////////////////////////////////// */}
+{/* CARDS */}
+<div className="relative z-10 pb-50 flex gap-12 justify-center flex-row w-full flex-wrap">
 
-<div className="bg-orange-600 pb-50 flex gap-12 justify-center flex-row w-full flex-wrap ">
+  {/* FOOD DELIVERY */}
+  <Link to="/restaurants">
+    <div className="bg-white rounded-2xl h-52 w-60 p-3 m-2
+                    transition duration-200 hover:scale-105">
 
+      <div className="text-xl font-bold">
+        FOOD DELIVERY
+      </div>
 
-<Link to="/restaurants">
-<div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
-<div className="text-xl font-bold  ">FOOD DELIVERY</div>
-<div className="text-[14px] font-semibold font-gray-500 ">FROM RESTAURENTS</div>
-<div className="text-orange-600 font-bold mt-2 ">UPTO 60% OFF</div>
-<div className="flex gap-20 justify-center items-center pt-7">
-<div className="  bg-orange-600 h-8 w-8 rounded-4xl text-center text-white">{"->"}</div>
-<div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzGzQhvMg5jolrMk5gXUdyrt5kfiudcYKhFfU9oNbjYg&s=10 " className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
-</div>
-</div>
-</Link>
+      <div className="text-[14px] font-semibold text-gray-500">
+        FROM RESTAURANTS
+      </div>
 
+      <div className="text-orange-600 font-bold mt-2">
+        UPTO 60% OFF
+      </div>
 
+      <div className="flex gap-20 justify-center items-center pt-7">
 
+        <div className="bg-orange-600 h-8 w-8 rounded-full
+                        flex items-center justify-center text-white text-xl">
+          →
+        </div>
 
-<Link to="/Grocery">
+        <div className="h-20 w-20">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzGzQhvMg5jolrMk5gXUdyrt5kfiudcYKhFfU9oNbjYg&s=10"
+            className="rounded-full h-full w-full object-cover"
+            alt="Food"
+          />
+        </div>
 
-<div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
-<div className="text-xl font-bold  ">INSTAMART</div>
-<div className="text-[14px] font-semibold font-gray-500 ">INSTANT GROCERY</div>
-<div className="text-orange-600 font-bold mt-2 ">UPTO 60% OFF</div>
-<div className="flex gap-20 justify-center items-center pt-7">
-<div className="  bg-orange-600 h-8 w-8 rounded-4xl text-center text-white">{"->"}</div>
-<div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZQC7eiFQLQsJCvSb37rd4PydlEVXms_PgFmJ5qHydg&s=10 " className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
-</div>
-</div>
-</Link>
-
-
-
-
-<Link to="/DineOut">
-
-<div className="bg-white rounded-2xl h-50  p-2 m-2 z-40">
-<div className="text-xl font-bold  ">DINE OUT </div>
-<div className="text-[14px] font-semibold font-gray-500 ">EAT OUT & SAVE MORE</div>
-<div className="text-orange-600 font-bold mt-2 ">UPTO 70% OFF</div>
-<div className="flex gap-20 justify-center items-center pt-7">
-<div className="  bg-orange-600 h-8 w-8 rounded-4xl text-center text-white">{"->"}</div>
-<div className="h-20 w-20   z-10000  "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExLrd97nxCdDSXxB2iOBHMFsNgmdv8uXTflFADK4fJA&s=10" className="rounded-full scale-3d transform-3d h-full w-full  "/></div>
-</div>
-</div>
-</Link>
+      </div>
+    </div>
+  </Link>
 
 
+  {/* INSTAMART */}
+  <Link to="/Grocery">
+    <div className="bg-white rounded-2xl h-52 w-60 p-3 m-2
+                    transition duration-200 hover:scale-105">
 
+      <div className="text-xl font-bold">
+        INSTAMART
+      </div>
+
+      <div className="text-[14px] font-semibold text-gray-500">
+        INSTANT GROCERY
+      </div>
+
+      <div className="text-orange-600 font-bold mt-2">
+        UPTO 60% OFF
+      </div>
+
+      <div className="flex gap-20 justify-center items-center pt-7">
+
+        <div className="bg-orange-600 h-8 w-8 rounded-full
+                        flex items-center justify-center text-white text-xl">
+          →
+        </div>
+
+        <div className="h-20 w-20">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZQC7eiFQLQsJCvSb37rd4PydlEVXms_PgFmJ5qHydg&s=10"
+            className="rounded-full h-full w-full object-cover"
+            alt="Grocery"
+          />
+        </div>
+
+      </div>
+    </div>
+  </Link>
+
+
+  {/* DINE OUT */}
+  <Link to="/DineOut">
+    <div className="bg-white rounded-2xl  h-52 w-60 p-3 m-2
+                    transition duration-200 hover:scale-105">
+
+      <div className="text-xl font-bold">
+        DINE OUT
+      </div>
+
+      <div className="text-[14px] font-semibold text-gray-500">
+        EAT OUT & SAVE MORE
+      </div>
+
+      <div className="text-orange-600 font-bold mt-2">
+        UPTO 70% OFF
+      </div>
+
+      <div className="flex gap-20 justify-center items-center pt-7">
+
+        <div className="bg-orange-600 h-8 w-8 rounded-full
+                        flex items-center justify-center text-white text-xl">
+          →
+        </div>
+
+        <div className="h-20 w-20">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExLrd97nxCdDSXxB2iOBHMFsNgmdv8uXTflFADK4fJA&s=10"
+            className="rounded-full h-full w-full object-cover"
+            alt="Dine Out"
+          />
+        </div>
+
+      </div>
+    </div>
+  </Link>
 
 </div>
 

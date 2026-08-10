@@ -46,7 +46,7 @@ export default function Middle(){
 <div className="pb-10" >
 
 <div className="  font-semibold font-sans text-wrap pl-[15%] pb-[7%] wrap-break-word text-[1.4rem]  " >Discover best restaurants on Dineout</div>
-<div className="flex flex-nowrap gap-7 w-[80%] mx-auto  container mx-auto overflow-x-scroll " >
+<div className="flex flex-nowrap gap-7 w-[80%]  container mx-auto overflow-x-scroll " >
  {
   DineData.map((value)=>(
 
