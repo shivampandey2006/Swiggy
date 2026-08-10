@@ -1,6 +1,7 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-950 px-6 md:px-16 lg:px-10 py-20">
+     <footer id="footer" className="bg-gray-950 px-6 md:px-16 lg:px-10 py-20">
+    <div > id="footer"</div>
 
       {/* Download Banner */}
       <div className="mb-10 ">

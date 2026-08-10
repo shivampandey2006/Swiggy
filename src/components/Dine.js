@@ -6,7 +6,7 @@ export default function Dine({ value }) {
        <Link to="/DineOut">
       <div key ={value.info.id} >
          
-        <div className="h-60 w-80   ">
+        <div className="md:h-50 md:w-70 h-45 w-60  ">
           <img 
           className="h-full w-full rounded-xl "
             src={`https://media-assets.swiggy.com/swiggy/image/upload/${value.info.mediaFiles[0].url}`}></img>

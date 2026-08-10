@@ -9,7 +9,7 @@ export default function InstaMart({item}){
 
 
      <Link to="/Grocery" >
-<div  className="h-50 w-40   ">
+<div  className="h-50 w-40 transition transform duration-200 hover:scale-105  ">
      <img
         
           src={`https://media-assets.swiggy.com/swiggy/image/upload/${item.imageId}`}

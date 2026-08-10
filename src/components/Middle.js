@@ -14,7 +14,7 @@ export default function Middle(){
         <>
  <div>  <h1 className="mt-15  ml-[15%] wrap-break-word text-[1.2rem] font-bold font-serif p-3 ">Order Our Best Food Options</h1></div>
        
-      <div className=" h-60 mr-[15%] ml-[15%] mb-15 mt-15 flex gap-8 overflow-x-scroll whitespace-nowrap ">
+      <div className=" h-60  w-[80%] mx-auto mb-15 mt-15 flex gap-8 overflow-x-scroll whitespace-nowrap ">
         { FoodData.map((item)=>(
            <Food key={item.id} item={item}></Food>
          ))}
@@ -26,7 +26,7 @@ export default function Middle(){
 <div>
 <div>  <h1 className=" mt-15  ml-[15%] wrap-break-word text-[1.2rem] font-bold font-serif p-3 ">Order Our Best Grocery </h1></div>
        
-  <div className=" h-70 mr-[15%] ml-[15%] mb-15 mt-15  flex  gap-8 overflow-x-scroll whitespace-nowrap ">
+  <div className="h-75 w-[80%] mx-auto mb-15 mt-15 flex gap-8 overflow-x-scroll whitespace-nowrap ">
     {
       InstaMartData.map((item)=>(
         <InstaMart key={item.id} item={item}></InstaMart>
@@ -46,7 +46,7 @@ export default function Middle(){
 <div className="pb-10" >
 
 <div className="  font-semibold font-sans text-wrap pl-[15%] pb-[7%] wrap-break-word text-[1.4rem]  " >Discover best restaurants on Dineout</div>
-<div className="flex flex-nowrap gap-7 w-[70%] container mx-auto overflow-x-scroll " >
+<div className="flex flex-nowrap gap-7 w-[80%] mx-auto  container mx-auto overflow-x-scroll " >
  {
   DineData.map((value)=>(
 

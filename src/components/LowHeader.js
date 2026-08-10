@@ -1,5 +1,6 @@
 
-
+import LoginOptions from "./LoginOption"
+import { Link } from "react-router-dom"
 
 export default  function LowHeader(){
     return (
@@ -16,10 +17,15 @@ export default  function LowHeader(){
 
            <div className=" text-bold flex flex-row gap-5 md:gap-14  flex-wrap md:flex-nowrap  justify-center items-center ">
            
-        <div><button className=" font-bold text-black text-2x">Swiggy Corporate</button></div>
-         <div> <button className="font-bold text-black">Partner With US</button></div>
-         <div className=" font-bold text-black rounded-2xl h-10 w-25 mb-2 "><button className="h-10 w-25 border-2 border-gray-200 rounded-2xl">Get the App</button></div>
-         <div className="font-bold bg-black  text-white rounded-2xl h-10 w-25 mb-2"><button className="h-10 w-25 ">Sign in</button></div>
+        <div><button className=" font-bold text-black text-2x hover:underline">Swiggy Corporate</button></div>
+         <div> <button className="font-bold text-black hover:underline">Partner With US</button></div>
+ <a
+  href="#footer"
+  className="text-black h-10 w-25 border-2 border-gray-200 rounded-2xl flex items-center justify-center"
+>
+  Get the App
+</a> 
+     <Link to="/restaurants/Login">   <div className="font-bold bg-black  text-white rounded-2xl h-10 w-25 mb-2"><button className="h-10 w-25 ">Sign in</button></div></Link> 
       </div>
       
           </div>

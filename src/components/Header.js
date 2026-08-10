@@ -1,5 +1,9 @@
 
 import { Link } from "react-router-dom"
+import LoginOptions from "./LoginOption"
+import Footer from "./Footer"
+import Home from "../Home"
+
 export default function Header(){
     return (
         <>
@@ -19,11 +23,17 @@ export default function Header(){
 
            <div className=" flex flex-row gap-5 md:gap-14  flex-wrap md:flex-nowrap  justify-center items-center ">
            
-        <div><button className=" text-white text-2x">Swiggy Corporate</button></div>
-         <div> <button className=" text-white">Partner With US</button></div>
-         <div className="  text-white rounded-2xl h-10 w-25 mb-2 "><button className="h-10 w-25 border-2 border-gray-200 rounded-2xl">Get the App</button></div>
-         <div className="bg-black  text-white rounded-2xl h-10 w-25 mb-2"><button className="h-10 w-25 ">Sign in</button></div>
-      </div>
+        <div><button className=" text-white text-2x  hover:underline underline-offset-4">Swiggy Corporate</button></div>
+         <div> <button className=" text-white  hover:underline underline-offset-4
+         ">Partner With US</button></div>
+   <a
+  href="#footer"
+  className="text-white h-10 w-25 border-2 border-gray-200 rounded-2xl flex items-center justify-center"
+>
+  Get the App
+</a>
+  <Link to="/login">  <div className="bg-black  text-white rounded-2xl h-10 w-25 mb-2 text-center "><button className="h-10 w-25 " >Sign in</button></div></Link> 
+      </div> 
       
           </div>
       

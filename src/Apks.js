@@ -12,6 +12,8 @@ import Restaurants from "./components/Restaurants";
 import Grocery from "./components/Grocery";
 import DineOut from "./components/DineOut";
 import Vege from "./Vege";
+import LoginOptions from "./components/LoginOption";
+import LowHeader from "./components/LowHeader";
 
 
 function Apks() {
@@ -26,11 +28,13 @@ function Apks() {
   <Route path="/grocery/vege" element={<Vege />} />
 
   <Route path="/dineout" element={<DineOut />} />
+  <Route path="/Login" element={<LoginOptions />} />
+  <Route path="/restaurants/Login" element={<LoginOptions />} />
 </Routes>
 </BrowserRouter>
   );
 }
-
+  
 const root = ReactDOM.createRoot(
   document.getElementById("root")
 );
