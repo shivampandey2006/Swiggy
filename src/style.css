@@ -1,15 +1,14 @@
 @import "tailwindcss";
-
 @keyframes itemAdded {
   0% {
     transform: translateX(100%);
   }
 
-  17% {
+  25% {
     transform: translateX(0);
   }
 
-  83% {
+  75% {
     transform: translateX(0);
   }
 

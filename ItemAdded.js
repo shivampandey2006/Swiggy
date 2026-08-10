@@ -1,7 +1,7 @@
 export default function ItemAdded() {
   return (
     <div
-      className="
+      className=" hidden
         fixed bottom-5 right-0 z-50
         bg-green-600 text-white font-semibold
         p-3 rounded-l-full
