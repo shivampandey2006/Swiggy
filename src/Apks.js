@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
+import ScrollToTop from "./components/ScrollToTop";
 import {
   BrowserRouter,
   Routes,
@@ -13,9 +13,11 @@ import Grocery from "./components/Grocery";
 import DineOut from "./components/DineOut";
 import Vege from "./Vege";
 
+
 function Apks() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
  <Routes>
   <Route path="/" element={<Home />} />
   <Route path="/restaurants" element={<Restaurants />} />
