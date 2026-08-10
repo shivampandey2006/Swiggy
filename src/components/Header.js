@@ -8,7 +8,7 @@ export default function Header(){
     return (
         <>
         
-        <div className="  bg-orange-600 ">
+        <div className="  bg-orange-600   ">
 
 
 
