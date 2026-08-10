@@ -4,6 +4,8 @@ import InstaMart from "./InstaMart";
 import Food from "./Food";
 import Dine from "./Dine";
 import DineData from "../asset/DineData";
+import { Link } from "react-router-dom";
+
 
 
 export default function Middle(){

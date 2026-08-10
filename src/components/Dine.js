@@ -1,16 +1,20 @@
+import { Link } from "react-router-dom";
 export default function Dine({ value }) {
   return (
-    <a target="_blank" href={value.cta?.link}
-     key ={value.info.id}>
-       
-      <div className=" " >
-        <div className="h-60 w-80  ">
+   
+    
+       <Link to="/DineOut">
+      <div key ={value.info.id} >
+         
+        <div className="h-60 w-80   ">
           <img 
           className="h-full w-full rounded-xl "
-            src={`https://media-assets.swiggy.com/swiggy/image/upload/${value.info.mediaFiles[0].url}`}
-          />
+            src={`https://media-assets.swiggy.com/swiggy/image/upload/${value.info.mediaFiles[0].url}`}></img>
+         
         
+
 </div>
+<div   >
         <div className="flex-none relative px-auto ml-2 mr-2   text-white font-bold text-xl  " >
           <div className="top-[-30]  left-0 absolute  bg-black/40" >{value.info.name}</div>
           <div className="top-[-30] right-0 absolute bg-green-600">⭐{value.info.rating.value}</div>
@@ -23,8 +27,10 @@ export default function Dine({ value }) {
         <div className="flex justify-between  mr-2 ml-2 text-[1.0919rem] pb-10 text-gray-500   " >
           <div>{value.info.locationInfo.landmarkName}</div>
           <div>{value.info.locationInfo.distanceString}</div>
+          </div>
         </div>
       </div>
-    </a>
+      </Link>
+    
   );
 }

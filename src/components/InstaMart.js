@@ -1,17 +1,15 @@
 import InstaMartData from "../asset/InstaMartData"
+import { Link } from "react-router-dom"
 
+import { Outlet } from "react-router-dom"
 export default function InstaMart({item}){
    return (
     <>
      
-<a 
-target="_blanck"
-key={item.id}
-href={item.action.link}
 
 
-
-><div  className="h-50 w-40   ">
+     <Link to="/Grocery" >
+<div  className="h-50 w-40   ">
      <img
         
           src={`https://media-assets.swiggy.com/swiggy/image/upload/${item.imageId}`}
@@ -20,9 +18,9 @@ href={item.action.link}
         
         />
         <h1 className=" text-center items-center text-[18px] font-semi-bold mt-5 font-stretch-75%  ">{item.description}</h1></div>
-</a>
 
-
+</Link>
+<Outlet></Outlet>
 
    
 

@@ -20472,7 +20472,7 @@
                                                             "text": "DINERSONE_REST_DETAIL",
                                                             "type": "DEEPLINK"
                                                         }
-                                                    }, {
+                                                    }  , {
                                                         "info": {
                                                             "id": "1265857",
                                                             "name": "YouMee",
