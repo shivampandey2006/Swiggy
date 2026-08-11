@@ -31,8 +31,8 @@ state.count++
   }
 }
 })
-export const {addItems , DecrementItem , IncrementItem} =  slicer1.actions
-export default slicer1.reducer
+export const {addItems , DecrementItem , IncrementItem} =  Slicer1.actions
+export default Slicer1.reducer
 //  array bcoz multiple items can be shown
 // three fubction n
 // adding new one 
